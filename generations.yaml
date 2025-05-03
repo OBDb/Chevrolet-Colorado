@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 2003
+    end_year: 2012
+    description: "The original Chevrolet Colorado replaced the S-10 as Chevrolet's compact/mid-size pickup truck. Developed alongside the GMC Canyon, it was available in regular cab, extended cab, and crew cab configurations with both short and long bed options. Engine choices initially included inline-four and inline-five cylinder options, with a V8 added later in the production run. The first-generation Colorado offered improved refinement compared to the S-10 but was criticized for underpowered engines in early models and interior quality. A significant refresh in 2009 addressed some concerns with revised styling, improved interior materials, and new engine options including the 5.3L V8 with 300 HP. This generation established the Colorado nameplate in North America, though it faced strong competition from the Toyota Tacoma and Nissan Frontier."
+
+  - name: "Second Generation"
+    start_year: 2012
+    end_year: 2022
+    description: "The second-generation Colorado was initially developed by GM Brazil and Thailand for international markets before being substantially redesigned for North America, where it launched for the 2015 model year after a brief hiatus. Larger than its predecessor, it competed in the mid-size truck segment with extended and crew cab configurations. North American engine options included a 2.5L four-cylinder, 3.6L V6, and a 2.8L Duramax diesel four-cylinder that offered impressive torque and towing capability. The interior featured significantly improved materials and technology, including an available 8-inch touchscreen with smartphone integration. Off-road capability was emphasized with the Z71 package and the more extreme ZR2 variant, which featured specialized suspension, wider track width, and electronic locking differentials. This generation successfully reestablished Chevrolet in the mid-size truck segment with competitive capabilities, technology, and efficiency."
+
+  - name: "Third Generation"
+    start_year: 2023
+    end_year: null
+    description: "The current Colorado represents a complete redesign, focusing on a more aggressive appearance and enhanced capability. Now exclusively offered with crew cab and short box configuration, it features a single powertrain: a 2.7L turbocharged four-cylinder with varying output levels from 237 HP to 310 HP depending on the trim. The exterior design is more rugged and truck-like, with distinct styling differences between trims including the off-road focused Trail Boss and ZR2 models. The interior has been thoroughly modernized with a standard 11.3-inch touchscreen, digital instrument options, and improved materials. Off-road capability remains a priority, especially in the ZR2 model which features Multimatic DSSV dampers, electronic locking differentials, and increased ground clearance. This generation maintains focus on the core mid-size truck market while offering technology and features previously found only in full-size pickups, reflecting the evolving expectations and uses of mid-size trucks."
