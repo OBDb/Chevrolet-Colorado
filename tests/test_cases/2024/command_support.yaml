@@ -173,6 +173,20 @@ unsupported_commands_by_ecu:
   - DACB.222AF5
   - DACB.222B43
   DB33:
+  - DB33.0104
+  - DB33.0105
+  - DB33.010A
+  - DB33.010C
+  - DB33.0123
+  - DB33.012E
   - DB33.012F
   - DB33.0131
+  - DB33.0132
+  - DB33.0133
+  - DB33.013C
+  - DB33.0144
+  - DB33.014C
+  - DB33.0163
+  - DB33.0167
+  - DB33.018E
   - DB33.01A6
