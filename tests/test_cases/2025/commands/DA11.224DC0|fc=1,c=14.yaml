@@ -1,0 +1,8 @@
+command_id: DA11.224DC0|fc=1,c=14
+test_cases:
+- response: 18DAF11104624DC0D1
+  expected_values:
+    CHEVROLET_EOL: 81.96078
+- response: 18DAF11104624DC0D2
+  expected_values:
+    CHEVROLET_EOL: 82.35294
