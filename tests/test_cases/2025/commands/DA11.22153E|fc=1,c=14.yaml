@@ -1,0 +1,11 @@
+command_id: DA11.22153E|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOT: 26
+  response: 142AF1110462153E42
+- expected_values:
+    CHEVROLET_EOT: 108
+  response: 142AF1110462153E94
+- expected_values:
+    CHEVROLET_EOT: 12
+  response: 18DAF1110462153E34
