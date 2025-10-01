@@ -1,0 +1,14 @@
+command_id: 7E0.0119
+test_cases:
+- expected_values:
+    O2S22: 0.72
+    SHRTFT22: 99.21875
+  response: 7E804411990FF
+- expected_values:
+    O2S22: 0.745
+    SHRTFT22: 99.21875
+  response: 7E804411995FF
+- expected_values:
+    O2S22: 0.765
+    SHRTFT22: 99.21875
+  response: 7E804411999FF

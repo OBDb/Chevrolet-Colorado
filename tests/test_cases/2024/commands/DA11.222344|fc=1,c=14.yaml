@@ -1,0 +1,11 @@
+command_id: DA11.222344|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EO_AP: 104
+  response: 142AF111046223441A
+- expected_values:
+    CHEVROLET_EO_AP: 100
+  response: 18DAF1110462234419
+- expected_values:
+    CHEVROLET_EO_AP: 400
+  response: 18DAF1110462234464
