@@ -1,0 +1,14 @@
+command_id: DA11.220010|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_MAF: 0
+  response: 142AF111056200100000
+- expected_values:
+    CHEVROLET_MAF: 104.68
+  response: 142AF1110562001028E4
+- expected_values:
+    CHEVROLET_MAF: 0
+  response: 18DAF111056200100000
+- expected_values:
+    CHEVROLET_MAF: 5.11
+  response: 18DAF1110562001001FF
