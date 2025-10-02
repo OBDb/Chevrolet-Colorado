@@ -1,0 +1,29 @@
+command_id: DA28.224A7C|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_BP: 0
+  response: 142AF12804624A7C0A
+- expected_values:
+    CHEVROLET_BP: 100
+  response: 142AF12804624A7C0B
+- expected_values:
+    CHEVROLET_BP: 200
+  response: 142AF12804624A7C0C
+- expected_values:
+    CHEVROLET_BP: 400
+  response: 142AF12804624A7C0E
+- expected_values:
+    CHEVROLET_BP: 1300
+  response: 142AF12804624A7C17
+- expected_values:
+    CHEVROLET_BP: 1400
+  response: 142AF12804624A7C18
+- expected_values:
+    CHEVROLET_BP: 1700
+  response: 142AF12804624A7C1B
+- expected_values:
+    CHEVROLET_BP: 1800
+  response: 142AF12804624A7C1C
+- expected_values:
+    CHEVROLET_BP: 1900
+  response: 142AF12804624A7C1D
