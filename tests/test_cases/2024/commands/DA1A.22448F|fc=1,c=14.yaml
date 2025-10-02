@@ -1,0 +1,17 @@
+command_id: DA1A.22448F|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_ODO: 6366.20312
+  response: 142AF11A0762448F0006378D
+- expected_values:
+    CHEVROLET_ODO: 32748.07812
+  response: 142AF11A0762448F001FFB05
+- expected_values:
+    CHEVROLET_ODO: 32765.95312
+  response: 142AF11A0762448F001FFF7D
+- expected_values:
+    CHEVROLET_ODO: 32769.59375
+  response: 142AF11A0762448F00200066
+- expected_values:
+    CHEVROLET_ODO: 1000000
+  response: 142AF11A0762448F0FFFFFFF
