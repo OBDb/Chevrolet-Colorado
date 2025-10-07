@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     CHEVROLET_FUEL_RATE: 0
   response: 18DAF1110562005E0000
+- expected_values:
+    CHEVROLET_FUEL_RATE: 1.05
+  response: |-
+    22005E1
+    142AF1110562005E0015

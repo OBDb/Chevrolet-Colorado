@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     CHEVROLET_MAF: 0
   response: 18DAF111056200100000
+- expected_values:
+    CHEVROLET_MAF: 3.16
+  response: |-
+    2200101
+    142AF11105620010013C

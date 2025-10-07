@@ -12,3 +12,9 @@ test_cases:
     CHEVROLET_AUX_V: 0
     CHEVROLET_FLI: 0
   response: 18DAF1110462002F00
+- expected_values:
+    CHEVROLET_AUX_V: 15.5
+    CHEVROLET_FLI: 60.78431
+  response: |-
+    22002F1
+    142AF1110462002F9B
