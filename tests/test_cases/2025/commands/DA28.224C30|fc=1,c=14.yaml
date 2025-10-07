@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     CHEVROLET_LNG_G: -0.00637
   response: 142AF12805624C30FFFC
+- expected_values:
+    CHEVROLET_LNG_G: 0.01911
+  response: |-
+    224C301
+    142AF12805624C30000C

@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     CHEVROLET_GEAR: PARK
   response: 18DAF11804621B3002
+- expected_values:
+    CHEVROLET_GEAR: PARK
+  response: |-
+    221B301
+    142AF11804621B3002

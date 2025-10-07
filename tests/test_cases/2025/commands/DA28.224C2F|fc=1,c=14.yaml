@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     CHEVROLET_LAT_G: -0.00637
   response: 142AF12805624C2FFFFC
+- expected_values:
+    CHEVROLET_LAT_G: 0
+  response: |-
+    224C2F1
+    142AF12805624C2F0000

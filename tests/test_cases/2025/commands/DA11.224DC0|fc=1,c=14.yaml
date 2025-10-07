@@ -4,8 +4,13 @@ test_cases:
     CHEVROLET_EOL: 63.92157
   response: 142AF11104624DC0A3
 - expected_values:
-    CHEVROLET_EOL: 79.21569
-  response: 18DAF11104624DC0CA
+    CHEVROLET_EOL: 70.98039
+  response: 18DAF11104624DC0B5
 - expected_values:
     CHEVROLET_EOL: 82.35294
   response: 18DAF11104624DC0D2
+- expected_values:
+    CHEVROLET_EOL: 70.98039
+  response: |-
+    224DC01
+    142AF11104624DC0B5
