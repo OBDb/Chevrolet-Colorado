@@ -4,11 +4,11 @@ test_cases:
     CHEVROLET_EOP_ACT: 0
   response: 142AF1110462234500
 - expected_values:
+    CHEVROLET_EOP_ACT: 472
+  response: 142AF1110462234576
+- expected_values:
     CHEVROLET_EOP_ACT: 0
   response: 18DAF1110462234500
-- expected_values:
-    CHEVROLET_EOP_ACT: 384
-  response: 18DAF1110462234560
 - expected_values:
     CHEVROLET_EOP_ACT: 140
   response: |-

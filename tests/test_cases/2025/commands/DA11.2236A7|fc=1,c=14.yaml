@@ -1,6 +1,9 @@
 command_id: DA11.2236A7|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_AIRFILT_LIFE: 0
+  response: 142AF111056236A70050
+- expected_values:
     CHEVROLET_AIRFILT_LIFE: 95
   response: 142AF111056236A75F10
 - expected_values:

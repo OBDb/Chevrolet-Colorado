@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_LAT_G: 0
   response: 142AF12805624C2F0000
 - expected_values:
-    CHEVROLET_LAT_G: -0.26759
-  response: 142AF12805624C2FFF58
+    CHEVROLET_LAT_G: -0.35042
+  response: 142AF12805624C2FFF24
 - expected_values:
     CHEVROLET_LAT_G: -0.00637
   response: 142AF12805624C2FFFFC

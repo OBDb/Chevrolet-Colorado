@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_BP: 0
   response: 142AF12804624A7C0A
 - expected_values:
-    CHEVROLET_BP: 5300
-  response: 142AF12804624A7C3F
+    CHEVROLET_BP: -7800
+  response: 142AF12804624A7CBC
 - expected_values:
     CHEVROLET_BP: 0
   response: |-
