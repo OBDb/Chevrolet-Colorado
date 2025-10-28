@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     MIL_DIST: 58
   response: 7E8044121003A
+- expected_values:
+    MIL_DIST: 112
+  response: '7E80441210070'
+- expected_values:
+    MIL_DIST: 116
+  response: '7E80441210074'
