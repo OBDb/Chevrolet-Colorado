@@ -4,5 +4,74 @@ test_cases:
     FLI: 9.41176
   response: 7E803412F18
 - expected_values:
+    FLI: 15.29412
+  response: |-
+    7E803412F27
+    7E803412F27
+- expected_values:
     FLI: 35.68627
   response: 7E803412F5B
+- expected_values:
+    FLI: 15.29412
+  response: |-
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22418B
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224210
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224203
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224193
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224234
+    CAN ERROR
+    NO DATA
+    > DA11.2220E3|fc=1,c=14
+    CAN ERROR
+    > DA11.220010|fc=1,c=14
+    CAN ERROR
+    > 7E4.7EC.2243AF
+    CAN ERROR
+    NO DATA
+    > 7E0.7E8.222491
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224218
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22421C
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224204
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224190
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22418A
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22419F
+    CAN ERROR
+    NO DATA
+    > DA11.2211EA|fc=1,c=14
+    CAN ERROR
+    > 7E7.7EF.22421E
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22420B
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22423A
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224240
+    CAN ERROR
+    NO DATA
+    > 7DF.012F
+    7E803412F27
