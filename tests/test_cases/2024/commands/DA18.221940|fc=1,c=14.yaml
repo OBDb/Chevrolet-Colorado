@@ -1,8 +1,8 @@
 command_id: DA18.221940|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_TFT: 24
-  response: 142AF1180462194040
+    CHEVROLET_TFT: 19
+  response: 142AF118046219403B
 - expected_values:
     CHEVROLET_TFT: 100
   response: 142AF118046219408C
