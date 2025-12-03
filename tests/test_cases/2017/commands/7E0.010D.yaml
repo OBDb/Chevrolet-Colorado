@@ -6,3 +6,30 @@ test_cases:
 - expected_values:
     VSS: 95
   response: 7E803410D5F
+- expected_values:
+    VSS: 0
+  response: |-
+    NO DATA
+    > 7E7.7EF.22418C
+    CAN ERROR
+    NO DATA
+    > 7E4.7EC.224369
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22419A
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224217
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22418F
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.224216
+    CAN ERROR
+    NO DATA
+    > 7E7.7EF.22421C
+    CAN ERROR
+    NO DATA
+    > 7DF.010D
+    7E803410D00
