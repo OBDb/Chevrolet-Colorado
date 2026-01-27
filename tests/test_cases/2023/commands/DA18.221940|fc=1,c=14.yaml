@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_TFT: 25
   response: 142AF1180462194041
 - expected_values:
-    CHEVROLET_TFT: 102
-  response: 142AF118046219408E
+    CHEVROLET_TFT: 105
+  response: 142AF1180462194091
