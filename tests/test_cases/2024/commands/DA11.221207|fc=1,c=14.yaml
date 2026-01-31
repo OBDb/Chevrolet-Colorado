@@ -7,6 +7,9 @@ test_cases:
     CHEVROLET_MIS_3: 0.39216
   response: 142AF1110462120701
 - expected_values:
+    CHEVROLET_MIS_3: 0.78431
+  response: 142AF1110462120702
+- expected_values:
     CHEVROLET_MIS_3: 1.56863
   response: 142AF1110462120704
 - expected_values:
