@@ -4,29 +4,5 @@ test_cases:
     CHEVROLET_EOL: 0
   response: 142AF11104624DC000
 - expected_values:
-    CHEVROLET_EOL: 35.68627
-  response: 142AF11104624DC05B
-- expected_values:
-    CHEVROLET_EOL: 40.78431
-  response: 142AF11104624DC068
-- expected_values:
-    CHEVROLET_EOL: 72.54902
-  response: 142AF11104624DC0B9
-- expected_values:
-    CHEVROLET_EOL: 73.72549
-  response: 142AF11104624DC0BC
-- expected_values:
-    CHEVROLET_EOL: 74.11765
-  response: 142AF11104624DC0BD
-- expected_values:
-    CHEVROLET_EOL: 97.64706
-  response: 142AF11104624DC0F9
-- expected_values:
-    CHEVROLET_EOL: 98.82353
-  response: 142AF11104624DC0FC
-- expected_values:
-    CHEVROLET_EOL: 99.21569
-  response: 142AF11104624DC0FD
-- expected_values:
     CHEVROLET_EOL: 99.60784
   response: 142AF11104624DC0FE
