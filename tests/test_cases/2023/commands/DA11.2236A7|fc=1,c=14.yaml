@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CHEVROLET_AIRFILT_LIFE: 55
   response: 142AF111056236A73710
+- expected_values:
+    CHEVROLET_AIRFILT_LIFE: 90
+  response: 142AF111056236A75A10
