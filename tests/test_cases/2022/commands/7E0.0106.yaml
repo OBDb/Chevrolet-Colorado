@@ -6,8 +6,8 @@ test_cases:
     0106
     7E80341067E
 - expected_values:
-    SHRTFT1: -14.0625
-  response: 7E80341066E
+    SHRTFT1: -26.5625
+  response: 7E80341065E
 - expected_values:
     SHRTFT1: 3.90625
   response: '7E803410685'
