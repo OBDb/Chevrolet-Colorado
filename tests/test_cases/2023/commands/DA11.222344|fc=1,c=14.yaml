@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CHEVROLET_EO_AP: 700
   response: 142AF11104622344AF
+- expected_values:
+    CHEVROLET_EO_AP: 248
+  response: 18DAF111046223443E
