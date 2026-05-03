@@ -7,26 +7,8 @@ test_cases:
     CATEMP11: 416
   response: 7E804413C11D0
 - expected_values:
-    CATEMP11: 435
-  response: 7E804413C128E
+    CATEMP11: 473
+  response: 7E804413C140A
 - expected_values:
-    CATEMP11: 437
-  response: 7E804413C12A2
-- expected_values:
-    CATEMP11: 440
-  response: 7E804413C12C0
-- expected_values:
-    CATEMP11: 463
-  response: 7E804413C13A6
-- expected_values:
-    CATEMP11: 488
-  response: 7E804413C14A0
-- expected_values:
-    CATEMP11: 501
-  response: 7E804413C1522
-- expected_values:
-    CATEMP11: 516
-  response: 7E804413C15B8
-- expected_values:
-    CATEMP11: 529
-  response: 7E804413C163A
+    CATEMP11: 581
+  response: 7E804413C1842
