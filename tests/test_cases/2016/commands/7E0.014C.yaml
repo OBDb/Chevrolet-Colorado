@@ -7,6 +7,9 @@ test_cases:
     TAC_PCT: 10.58824
   response: 7E803414C1B
 - expected_values:
+    TAC_PCT: 11.37255
+  response: 7E803414C1D
+- expected_values:
     TAC_PCT: 11.76471
   response: 7E803414C1E
 - expected_values:
