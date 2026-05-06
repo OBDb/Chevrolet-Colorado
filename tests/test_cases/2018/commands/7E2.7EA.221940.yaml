@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.221940
 test_cases:
 - expected_values:
-    CHEVROLET_ATF_T: 21
-  response: 7EA046219403D
+    CHEVROLET_ATF_T: 11
+  response: 7EA0462194033
 - expected_values:
     CHEVROLET_ATF_T: 57
   response: 7EA0462194061
