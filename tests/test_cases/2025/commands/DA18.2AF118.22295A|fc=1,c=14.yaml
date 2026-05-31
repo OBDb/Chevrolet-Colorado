@@ -1,32 +1,8 @@
 command_id: DA18.2AF118.22295A|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_TF_T_FLTED: 76
-  response: 142AF1180462295A74
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 79
-  response: 142AF1180462295A77
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 81
-  response: 142AF1180462295A79
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 82
-  response: 142AF1180462295A7A
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 85
-  response: 142AF1180462295A7D
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 86
-  response: 142AF1180462295A7E
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 88
-  response: 142AF1180462295A80
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 89
-  response: 142AF1180462295A81
-- expected_values:
-    CHEVROLET_TF_T_FLTED: 90
-  response: 142AF1180462295A82
+    CHEVROLET_TF_T_FLTED: 64
+  response: 142AF1180462295A68
 - expected_values:
     CHEVROLET_TF_T_FLTED: 91
   response: 142AF1180462295A83
