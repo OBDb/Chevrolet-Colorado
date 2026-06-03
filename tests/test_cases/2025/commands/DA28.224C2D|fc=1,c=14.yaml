@@ -10,6 +10,11 @@ test_cases:
     CHEVROLET_STEER_ANGLE: -5.61
   response: 142AF12805624C2DFF01
 - expected_values:
+    CHEVROLET_STEER_ANGLE: -4.928
+  response: |-
+    224C2D
+    142AF12805624C2DFF20
+- expected_values:
     CHEVROLET_STEER_ANGLE: -8.668
   response: |-
     224C2D1

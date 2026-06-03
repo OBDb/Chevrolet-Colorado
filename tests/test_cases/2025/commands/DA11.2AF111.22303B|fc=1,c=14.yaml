@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_EGT_2: -40
   response: 142AF1110562303B0000
+- expected_values:
+    CHEVROLET_DPF_EGT_2: -40
+  response: |-
+    22303B
+    142AF1110562303B0000

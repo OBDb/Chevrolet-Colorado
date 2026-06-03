@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     CHEVROLET_EOT: 12
   response: 18DAF1110462153E34
+- expected_values:
+    CHEVROLET_EOT: 93
+  response: |-
+    22153E
+    142AF1110462153E85

@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_CORRECTED_PRES: 0
   response: 142AF111056234D90000
+- expected_values:
+    CHEVROLET_DPF_CORRECTED_PRES: 0
+  response: |-
+    2234D9
+    142AF111056234D90000

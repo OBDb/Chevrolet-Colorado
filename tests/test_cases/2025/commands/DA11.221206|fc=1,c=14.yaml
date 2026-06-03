@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     CHEVROLET_MIS_1: 0
   response: 18DAF1110462120600
+- expected_values:
+    CHEVROLET_MIS_1: 0
+  response: |-
+    221206
+    142AF1110462120600

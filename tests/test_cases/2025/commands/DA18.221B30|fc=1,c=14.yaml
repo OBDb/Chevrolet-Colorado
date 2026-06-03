@@ -16,5 +16,11 @@ test_cases:
     CHEVROLET_CURRENT_GEAR: -1
     CHEVROLET_GEAR: PARK
   response: |-
+    221B30
+    142AF11804621B3002
+- expected_values:
+    CHEVROLET_CURRENT_GEAR: -1
+    CHEVROLET_GEAR: PARK
+  response: |-
     221B301
     142AF11804621B3002
