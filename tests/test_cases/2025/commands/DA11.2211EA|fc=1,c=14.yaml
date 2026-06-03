@@ -9,5 +9,10 @@ test_cases:
 - expected_values:
     CHEVROLET_MIS_5: 0
   response: |-
+    2211EA
+    142AF111046211EA00
+- expected_values:
+    CHEVROLET_MIS_5: 0
+  response: |-
     2211EA1
     142AF111046211EA00

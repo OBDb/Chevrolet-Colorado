@@ -10,6 +10,11 @@ test_cases:
     CHEVROLET_TFT: 12
   response: 18DAF1180462194034
 - expected_values:
+    CHEVROLET_TFT: 90
+  response: |-
+    221940
+    142AF1180462194082
+- expected_values:
     CHEVROLET_TFT: 68
   response: |-
     2219401

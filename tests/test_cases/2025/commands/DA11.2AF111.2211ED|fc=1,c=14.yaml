@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     CHEVROLET_MISFIRES_C8_CUR: 0
   response: 142AF111046211ED00
+- expected_values:
+    CHEVROLET_MISFIRES_C8_CUR: 0
+  response: |-
+    2211ED
+    142AF111046211ED00
