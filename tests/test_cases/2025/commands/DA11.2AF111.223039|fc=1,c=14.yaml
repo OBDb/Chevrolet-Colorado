@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 0
   response: 142AF111056230390000
+- expected_values:
+    CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 0
+  response: |-
+    223039
+    142AF111056230390000

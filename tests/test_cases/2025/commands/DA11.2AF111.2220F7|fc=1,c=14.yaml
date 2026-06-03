@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_AVG_DIST_BETWEEN_REGENS: 0
   response: 142AF111056220F70000
+- expected_values:
+    CHEVROLET_DPF_AVG_DIST_BETWEEN_REGENS: 0
+  response: |-
+    2220F7
+    142AF111056220F70000
