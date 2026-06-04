@@ -1,11 +1,11 @@
 command_id: DA18.2AF118.22295A|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_TF_T_FLTED: 35
-  response: 142AF1180462295A4B
+    CHEVROLET_TF_T_FLTED: 34
+  response: 142AF1180462295A4A
 - expected_values:
-    CHEVROLET_TF_T_FLTED: 100
-  response: 142AF1180462295A8C
+    CHEVROLET_TF_T_FLTED: 101
+  response: 142AF1180462295A8D
 - expected_values:
     CHEVROLET_TF_T_FLTED: 90
   response: |-
