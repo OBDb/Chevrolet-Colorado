@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     CHEVROLET_EOP_CALC: 248
   response: 7E804621C1B3E
+- expected_values:
+    CHEVROLET_EOP_CALC: 280
+  response: 7E804621C1B46
+- expected_values:
+    CHEVROLET_EOP_CALC: 288
+  response: 7E804621C1B48
+- expected_values:
+    CHEVROLET_EOP_CALC: 292
+  response: 7E804621C1B49
