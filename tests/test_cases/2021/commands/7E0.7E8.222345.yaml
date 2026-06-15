@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EOP: 0
   response: '7E80462234500'
 - expected_values:
-    CHEVROLET_EOP: 336
-  response: '7E80462234554'
+    CHEVROLET_EOP: 348
+  response: '7E80462234557'
