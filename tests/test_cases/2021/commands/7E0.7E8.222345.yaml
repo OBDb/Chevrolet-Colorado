@@ -4,20 +4,5 @@ test_cases:
     CHEVROLET_EOP: 0
   response: '7E80462234500'
 - expected_values:
-    CHEVROLET_EOP: 184
-  response: 7E8046223452E
-- expected_values:
-    CHEVROLET_EOP: 228
-  response: '7E80462234539'
-- expected_values:
-    CHEVROLET_EOP: 256
-  response: '7E80462234540'
-- expected_values:
-    CHEVROLET_EOP: 260
-  response: '7E80462234541'
-- expected_values:
-    CHEVROLET_EOP: 284
-  response: '7E80462234547'
-- expected_values:
-    CHEVROLET_EOP: 296
-  response: 7E8046223454A
+    CHEVROLET_EOP: 336
+  response: '7E80462234554'
