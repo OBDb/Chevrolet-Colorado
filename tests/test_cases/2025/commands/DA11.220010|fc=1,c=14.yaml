@@ -7,8 +7,8 @@ test_cases:
     CHEVROLET_MAF: 5.11
   response: 142AF1110562001001FF
 - expected_values:
-    CHEVROLET_MAF: 249.26
-  response: 142AF11105620010615E
+    CHEVROLET_MAF: 250.98
+  response: 142AF11105620010620A
 - expected_values:
     CHEVROLET_MAF: 0
   response: 18DAF111056200100000
