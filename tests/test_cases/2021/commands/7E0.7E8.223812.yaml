@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_COOLING_FAN_CMD: 0
   response: '7E80462381200'
 - expected_values:
-    CHEVROLET_COOLING_FAN_CMD: 43.13725
-  response: 7E8046238126E
+    CHEVROLET_COOLING_FAN_CMD: 51.76471
+  response: '7E80462381284'
