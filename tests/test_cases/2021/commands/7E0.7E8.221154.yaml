@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
+    CHEVROLET_EOT_CALC: 96
+  response: '7E8 04 62 11 54 88 '
+- expected_values:
+    CHEVROLET_EOT_CALC: 103
+  response: '7E8 04 62 11 54 8F '
+- expected_values:
+    CHEVROLET_EOT_CALC: 104
+  response: '7E8 04 62 11 54 90 '
+- expected_values:
     CHEVROLET_EOT_CALC: 23
   response: 7E8046211543F
 - expected_values:
