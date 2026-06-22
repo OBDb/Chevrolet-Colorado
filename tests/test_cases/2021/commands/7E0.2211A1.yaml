@@ -6,6 +6,21 @@ test_cases:
     2211A11
     7E8056211A11551
 - expected_values:
+    CHEVROLET_RUNTM: 1178
+  response: '7E8 05 62 11 A1 04 9A '
+- expected_values:
+    CHEVROLET_RUNTM: 1271
+  response: '7E8 05 62 11 A1 04 F7 '
+- expected_values:
+    CHEVROLET_RUNTM: 1807
+  response: '7E8 05 62 11 A1 07 0F '
+- expected_values:
+    CHEVROLET_RUNTM: 2656
+  response: '7E8 05 62 11 A1 0A 60 '
+- expected_values:
+    CHEVROLET_RUNTM: 5927
+  response: '7E8 05 62 11 A1 17 27 '
+- expected_values:
     CHEVROLET_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:

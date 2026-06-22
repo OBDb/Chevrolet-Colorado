@@ -2,6 +2,15 @@ command_id: 7E0.7E8.2212D9
 test_cases:
 - expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 0
+  response: '7E8 04 62 12 D9 00 '
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 5.85
+  response: '7E8 04 62 12 D9 0D '
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 14.4
+  response: '7E8 04 62 12 D9 20 '
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
   response: 7E8046212D900
 - expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 12.6

@@ -6,6 +6,21 @@ test_cases:
     01A61
     7E80641A6001D77B7
 - expected_values:
+    ODO: 173312.4
+  response: '7E8 06 41 A6 00 1A 72 04 '
+- expected_values:
+    ODO: 173316.8
+  response: '7E8 06 41 A6 00 1A 72 30 '
+- expected_values:
+    ODO: 173329.5
+  response: '7E8 06 41 A6 00 1A 72 AF '
+- expected_values:
+    ODO: 173336.7
+  response: '7E8 06 41 A6 00 1A 72 F7 '
+- expected_values:
+    ODO: 173389.6
+  response: '7E8 06 41 A6 00 1A 75 08 '
+- expected_values:
     ODO: 67449.6
   response: 7E80641A6000A4AC0
 - expected_values:
