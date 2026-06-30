@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AAT: 23
   response: 18DAF1110341463F
+- expected_values:
+    AAT: 30
+  response: 18DAF11103414646
