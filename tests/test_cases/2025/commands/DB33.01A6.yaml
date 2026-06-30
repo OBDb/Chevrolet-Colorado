@@ -6,8 +6,8 @@ test_cases:
     01A6
     18DAF1110641A60004F261
 - expected_values:
-    ODO: 13852.2
-  response: 18DAF1110641A600021D1A
+    ODO: 4920.3
+  response: 18DAF1110641A60000C033
 - expected_values:
     ODO: 14387.2
   response: 18DAF1110641A600023200
