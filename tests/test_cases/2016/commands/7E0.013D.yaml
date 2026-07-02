@@ -7,8 +7,8 @@ test_cases:
     CATEMP21: 416
   response: 7E804413D11D0
 - expected_values:
-    CATEMP21: 501
-  response: 7E804413D1522
+    CATEMP21: 474
+  response: 7E804413D1414
 - expected_values:
     CATEMP21: 581
   response: 7E804413D1842
