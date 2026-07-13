@@ -9,6 +9,11 @@ test_cases:
     7E8056211A1001E
     7E803410D11
 - expected_values:
+    CHEVROLET_RUNTM: 35
+  response: |-
+    7E8056211A10023
+    7E803410D00
+- expected_values:
     CHEVROLET_RUNTM: 38
   response: |-
     7E8056211A10026
@@ -25,11 +30,13 @@ test_cases:
     7DF02010D
     7E803410D10
 - expected_values:
-    CHEVROLET_RUNTM: 253
-  response: 7E8056211A100FD
+    CHEVROLET_RUNTM: 1022
+  response: 7E8056211A103FE
 - expected_values:
-    CHEVROLET_RUNTM: 258
-  response: 7E8056211A10102
+    CHEVROLET_RUNTM: 1025
+  response: 7E8056211A10401
 - expected_values:
-    CHEVROLET_RUNTM: 1028
-  response: 7E8056211A10404
+    CHEVROLET_RUNTM: 1053
+  response: |-
+    7E8056211A1041D
+    7E803410D00
