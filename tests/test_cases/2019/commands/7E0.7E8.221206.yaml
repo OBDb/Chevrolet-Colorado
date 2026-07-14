@@ -23,3 +23,6 @@ test_cases:
   response: |-
     7E80462120600
     7E803410D50
+- expected_values:
+    CHEVROLET_MISFIRES_C1_CUR: 1
+  response: '7E80462120601'
