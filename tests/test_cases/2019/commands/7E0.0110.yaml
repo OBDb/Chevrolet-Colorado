@@ -9,6 +9,11 @@ test_cases:
     7E80441100211
     7E803410D21
 - expected_values:
+    MAF: 21.44
+  response: |-
+    7E80441100860
+    7E803410D57
+- expected_values:
     MAF: 23.04
   response: '7E80441100900'
 - expected_values:
