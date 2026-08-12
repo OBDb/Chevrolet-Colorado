@@ -4,15 +4,15 @@ test_cases:
     CHEVROLET_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    CHEVROLET_VSS: 27
+    CHEVROLET_VSS: 1
   response: |-
-    7E80462000D1B
-    7E803410D1B
+    7E80462000D01
+    7E803410D01
 - expected_values:
-    CHEVROLET_VSS: 54
+    CHEVROLET_VSS: 48
   response: |-
-    7E80462000D36
-    7E803410D36
+    7E80462000D30
+    7E803410D2F
 - expected_values:
     CHEVROLET_VSS: 74
   response: |-
