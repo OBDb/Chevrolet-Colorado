@@ -21,6 +21,11 @@ test_cases:
     ODO: 173389.6
   response: '7E8 06 41 A6 00 1A 75 08 '
 - expected_values:
+    ODO: 232165.9
+  response: |-
+    7E80641010507E500
+    7E80641A600236CFB
+- expected_values:
     ODO: 67449.6
   response: 7E80641A6000A4AC0
 - expected_values:
@@ -33,5 +38,35 @@ test_cases:
     ODO: 194177.1
   response: 7E80641A6001DA10B
 - expected_values:
-    ODO: 219883
-  response: 7E80641A600218D2E
+    ODO: 232167.4
+  response: |-
+    7E80641A600236D0A
+    7E80641010507E500
+- expected_values:
+    ODO: 232169.1
+  response: 7E80641A600236D1B
+- expected_values:
+    ODO: 232172.1
+  response: |-
+    7E80641A600236D39
+    7E804410C17EA
+- expected_values:
+    ODO: 232238.2
+  response: |-
+    7E80641A600236FCE
+    7E804410C0B12
+- expected_values:
+    ODO: 232238.4
+  response: |-
+    7E80641A600236FD0
+    7E806419D00490049
+- expected_values:
+    ODO: 232239.1
+  response: |-
+    7E80641A600236FD7
+    7E804411F00E5
+- expected_values:
+    ODO: 232239.5
+  response: |-
+    7E80641A600236FDB
+    7E80641A600236FDB
