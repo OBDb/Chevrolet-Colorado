@@ -24,6 +24,21 @@ test_cases:
     7E8046223453F
     7E806419D00130013
 - expected_values:
+    CHEVROLET_EOP: 300
+  response: |-
+    7E8046223454B
+    7E803410D36
+- expected_values:
+    CHEVROLET_EOP: 300
+  response: |-
+    7E8046223454B
+    7E806419D00100010
+- expected_values:
+    CHEVROLET_EOP: 304
+  response: |-
+    7E8046223454C
+    7E804411F00E5
+- expected_values:
     CHEVROLET_EOP: 304
   response: |-
     7E8046223454C

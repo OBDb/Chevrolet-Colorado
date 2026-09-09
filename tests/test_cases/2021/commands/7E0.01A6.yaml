@@ -70,3 +70,14 @@ test_cases:
   response: |-
     7E80641A600236FDB
     7E80641A600236FDB
+- expected_values:
+    ODO: 232241.1
+  response: |-
+    7E80641A600236FEB
+    7E806419D00590059
+    7E804411F0040
+- expected_values:
+    ODO: 232242.9
+  response: |-
+    7E80641A600236FFD
+    7E8024700

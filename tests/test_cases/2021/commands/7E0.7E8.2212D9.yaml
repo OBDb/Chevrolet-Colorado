@@ -11,6 +11,11 @@ test_cases:
   response: '7E8 04 62 12 D9 20 '
 - expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 0
+  response: |-
+    7E803410D21
+    7E8046212D900
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
   response: 7E8046212D900
 - expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 0
@@ -28,6 +33,11 @@ test_cases:
     7E8046212D905
     7E804411F0109
 - expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 2.25
+  response: |-
+    7E8046212D905
+    7E806419D00120012
+- expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 4.05
   response: |-
     7E8046212D909
@@ -37,6 +47,11 @@ test_cases:
   response: |-
     7E8046212D90C
     7E8024700
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 6.3
+  response: |-
+    7E8046212D90E
+    7E803412F74
 - expected_values:
     CHEVROLET_TOTAL_KNOCK_RETARD: 12.6
   response: 7E8046212D91C

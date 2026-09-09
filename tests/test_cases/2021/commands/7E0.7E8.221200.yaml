@@ -29,7 +29,17 @@ test_cases:
     CHEVROLET_TOTAL_MISFIRE: 0
   response: |-
     7E80462120000
+    7E804410C10A9
+- expected_values:
+    CHEVROLET_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
     7E804410C1829
+- expected_values:
+    CHEVROLET_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
+    7E804411F0137
 - expected_values:
     CHEVROLET_TOTAL_MISFIRE: 0
   response: |-
@@ -39,7 +49,7 @@ test_cases:
     CHEVROLET_TOTAL_MISFIRE: 0
   response: |-
     7E80462120000
-    7E806419D00770077
+    7E806419D00270027
 - expected_values:
     CHEVROLET_TOTAL_MISFIRE: 4
   response: '7E80462120004'
