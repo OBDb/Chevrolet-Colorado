@@ -10,8 +10,40 @@ test_cases:
     CHEVROLET_EOP: 524
   response: '7E8 04 62 23 45 83 '
 - expected_values:
+    CHEVROLET_EOP: 256
+  response: |-
+    7E803412F69
+    7E80462234540
+    7E804410C0C1A
+- expected_values:
     CHEVROLET_EOP: 0
   response: '7E80462234500'
+- expected_values:
+    CHEVROLET_EOP: 252
+  response: |-
+    7E8046223453F
+    7E806419D00130013
+- expected_values:
+    CHEVROLET_EOP: 304
+  response: |-
+    7E8046223454C
+    7E804411F0339
+- expected_values:
+    CHEVROLET_EOP: 308
+  response: |-
+    7E8046223454D
+    7E803410498
+- expected_values:
+    CHEVROLET_EOP: 308
+  response: |-
+    7E8046223454D
+    7E803414943
+- expected_values:
+    CHEVROLET_EOP: 316
+  response: |-
+    7E8046223454F
+    7E8100C430500140017
+    7E821001900240449AA
 - expected_values:
     CHEVROLET_EOP: 568
   response: 7E8046223458E

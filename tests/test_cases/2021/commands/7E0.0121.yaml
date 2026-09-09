@@ -4,23 +4,25 @@ test_cases:
     MIL_DIST: 0
   response: '7E80441210000'
 - expected_values:
-    MIL_DIST: 3
-  response: '7E80441210003'
+    MIL_DIST: 129
+  response: '7E80441210081'
 - expected_values:
-    MIL_DIST: 5
-  response: '7E80441210005'
+    MIL_DIST: 129
+  response: |-
+    7E80441210081
+    7E803410491
 - expected_values:
-    MIL_DIST: 42
-  response: 7E8044121002A
+    MIL_DIST: 129
+  response: |-
+    7E80441210081
+    7E803412F7B
 - expected_values:
-    MIL_DIST: 58
-  response: 7E8044121003A
+    MIL_DIST: 129
+  response: |-
+    7E80441210081
+    7E804410C1CD7
 - expected_values:
-    MIL_DIST: 75
-  response: 7E8044121004B
-- expected_values:
-    MIL_DIST: 112
-  response: '7E80441210070'
-- expected_values:
-    MIL_DIST: 116
-  response: '7E80441210074'
+    MIL_DIST: 129
+  response: |-
+    7E80441210081
+    7E8044142374F

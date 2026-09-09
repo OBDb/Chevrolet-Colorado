@@ -15,11 +15,69 @@ test_cases:
     CLR_DIST: 19395
   response: '7E8 04 41 31 4B C3 '
 - expected_values:
+    CLR_DIST: 12593
+  response: |-
+    7E804411F0214
+    7E80441313131
+- expected_values:
+    CLR_DIST: 12597
+  response: |-
+    7E804411F0296
+    7E80441313135
+- expected_values:
     CLR_DIST: 0
   response: '7E80441310000'
 - expected_values:
     CLR_DIST: 255
   response: 7E804413100FF
+- expected_values:
+    CLR_DIST: 12595
+  response: |-
+    7E80441313133
+    7E80441423857
+- expected_values:
+    CLR_DIST: 12598
+  response: |-
+    7E80441313136
+    7E804410C182F
+- expected_values:
+    CLR_DIST: 12601
+  response: |-
+    7E80441313139
+    7E803412F7A
+- expected_values:
+    CLR_DIST: 12666
+  response: |-
+    7E8044131317A
+    7E803410460
+    7E804410C1324
+    7E803410F42
+- expected_values:
+    CLR_DIST: 12666
+  response: |-
+    7E8044131317A
+    7E803410D00
+    7E804410C0B13
+- expected_values:
+    CLR_DIST: 12666
+  response: |-
+    7E8044131317A
+    7E803410F43
+- expected_values:
+    CLR_DIST: 12667
+  response: |-
+    7E8044131317B
+    7E8024700
+- expected_values:
+    CLR_DIST: 12667
+  response: |-
+    7E8044131317B
+    7E803410D30
+- expected_values:
+    CLR_DIST: 12668
+  response: |-
+    7E8044131317C
+    7E80641A600236FE0
 - expected_values:
     CLR_DIST: 19203
   response: 7E80441314B03
