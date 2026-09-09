@@ -13,5 +13,51 @@ test_cases:
     CHEVROLET_EOT_CALC: 23
   response: 7E8046211543F
 - expected_values:
+    CHEVROLET_EOT_CALC: 74
+  response: |-
+    7E80462115472
+    7E80641A600236D19
+    7E806419D00720072
+- expected_values:
+    CHEVROLET_EOT_CALC: 76
+  response: |-
+    7E80462115474
+    7E80641A600236D2C
+- expected_values:
+    CHEVROLET_EOT_CALC: 77
+  response: |-
+    7E80462115475
+    7E803414933
+- expected_values:
+    CHEVROLET_EOT_CALC: 78
+  response: |-
+    7E80462115476
+    7E80641A600236D47
+- expected_values:
+    CHEVROLET_EOT_CALC: 81
+  response: |-
+    7E80462115479
+    7E804411F0018
+- expected_values:
+    CHEVROLET_EOT_CALC: 82
+  response: |-
+    7E8046211547A
+    7E803410D24
+- expected_values:
+    CHEVROLET_EOT_CALC: 82
+  response: |-
+    7E8046211547A
+    7E803412F4B
+- expected_values:
+    CHEVROLET_EOT_CALC: 82
+  response: |-
+    7E8046211547A
+    7E806419D00210021
+- expected_values:
+    CHEVROLET_EOT_CALC: 83
+  response: |-
+    7E8046211547B
+    7E803410F42
+- expected_values:
     CHEVROLET_EOT_CALC: 106
   response: '7E80462115492'

@@ -7,8 +7,36 @@ test_cases:
     CHEVROLET_MISFIRES_C3_CUR: 0
   response: '7E80462120700'
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR: 1
-  response: '7E80462120701'
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D00
+- expected_values:
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D5E
+- expected_values:
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803414933
+- expected_values:
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E804410C1805
+- expected_values:
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E804411F00E1
+- expected_values:
+    CHEVROLET_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E806419D002F002F
+    7E80341494D
 - expected_values:
     CHEVROLET_MISFIRES_C3_CUR: 2
   response: '7E80462120702'

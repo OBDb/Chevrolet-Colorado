@@ -16,5 +16,45 @@ test_cases:
     CHEVROLET_EOP_CALC: 0
   response: 7E804621C1B00
 - expected_values:
+    CHEVROLET_EOP_CALC: 256
+  response: |-
+    7E804621C1B40
+    7E804411F0055
+- expected_values:
+    CHEVROLET_EOP_CALC: 304
+  response: |-
+    7E804621C1B4C
+    7E80641A600236FD7
+- expected_values:
+    CHEVROLET_EOP_CALC: 308
+  response: |-
+    7E804621C1B4D
+    7E80641A600236D09
+- expected_values:
+    CHEVROLET_EOP_CALC: 312
+  response: |-
+    7E804621C1B4E
+    7E803410F37
+- expected_values:
+    CHEVROLET_EOP_CALC: 312
+  response: |-
+    7E804621C1B4E
+    7E804411F033E
+- expected_values:
+    CHEVROLET_EOP_CALC: 316
+  response: |-
+    7E804621C1B4F
+    7E806419D00090009
+- expected_values:
+    CHEVROLET_EOP_CALC: 328
+  response: |-
+    7E804621C1B52
+    7E80341049A
+- expected_values:
     CHEVROLET_EOP_CALC: 448
   response: 7E804621C1B70
+- expected_values:
+    CHEVROLET_EOP_CALC: 604
+  response: |-
+    7E804621C1B97
+    7E80341495D

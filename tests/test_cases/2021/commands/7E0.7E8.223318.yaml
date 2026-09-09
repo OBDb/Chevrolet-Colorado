@@ -7,17 +7,41 @@ test_cases:
     CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
   response: '7E80462331805'
 - expected_values:
-    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
-  response: '7E80462331815'
-- expected_values:
-    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
-  response: '7E80462331817'
-- expected_values:
-    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
-  response: 7E8046233183D
-- expected_values:
-    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 0
-  response: 7E8046233183F
-- expected_values:
     CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
   response: '7E80462331897'
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E8024700
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E803410D00
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E803410D5E
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E803410D5F
+    7E804410C185A
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E804410C165A
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E804411F0110
+- expected_values:
+    CHEVROLET_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E80641A600236FCE
