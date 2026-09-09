@@ -13,6 +13,11 @@ test_cases:
     CHEVROLET_EOP_ABS: 512
   response: '7E8 04 62 23 44 80 '
 - expected_values:
+    CHEVROLET_EOP_ABS: 396
+  response: |-
+    7E8024700
+    7E80462234463
+- expected_values:
     CHEVROLET_EOP_ABS: 400
   response: |-
     7E8024700
@@ -36,20 +41,20 @@ test_cases:
     7E80462234457
     7E804410C0AFD
 - expected_values:
+    CHEVROLET_EOP_ABS: 388
+  response: |-
+    7E80462234461
+    7E804410C138E
+- expected_values:
+    CHEVROLET_EOP_ABS: 400
+  response: |-
+    7E80462234464
+    7E8024700
+- expected_values:
     CHEVROLET_EOP_ABS: 408
   response: |-
     7E80462234466
     7E803410D1A
-- expected_values:
-    CHEVROLET_EOP_ABS: 408
-  response: |-
-    7E80462234466
-    7E804410C17FD
-- expected_values:
-    CHEVROLET_EOP_ABS: 416
-  response: |-
-    7E80462234468
-    7E8024700
 - expected_values:
     CHEVROLET_EOP_ABS: 416
   response: |-
