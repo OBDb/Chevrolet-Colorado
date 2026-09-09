@@ -39,6 +39,11 @@ test_cases:
     CHEVROLET_COOLING_FAN_CMD: 13.72549
   response: |-
     7E80462381223
+    7E803414959
+- expected_values:
+    CHEVROLET_COOLING_FAN_CMD: 13.72549
+  response: |-
+    7E80462381223
     7E804411F00BA
 - expected_values:
     CHEVROLET_COOLING_FAN_CMD: 13.72549
@@ -51,6 +56,11 @@ test_cases:
     7E80462381223
     7E806419D00190019
     7E804411F0094
+- expected_values:
+    CHEVROLET_COOLING_FAN_CMD: 31.37255
+  response: |-
+    7E80462381250
+    7E806419D003F003F
 - expected_values:
     CHEVROLET_COOLING_FAN_CMD: 51.76471
   response: '7E80462381284'

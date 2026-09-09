@@ -23,6 +23,11 @@ test_cases:
     7E8056212C3002A
     7E804410C1F29
 - expected_values:
+    CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 0.855
+  response: |-
+    7E8056212C30039
+    7E803410D27
+- expected_values:
     CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.095
   response: |-
     7E8056212C30049
@@ -43,6 +48,11 @@ test_cases:
     7E8056212C30060
     7E80641010507E500
 - expected_values:
+    CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.455
+  response: |-
+    7E8056212C30061
+    7E80641A600236FE8
+- expected_values:
     CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.5
   response: |-
     7E8056212C30064
@@ -52,6 +62,11 @@ test_cases:
   response: |-
     7E8056212C30065
     7E80441313131
+- expected_values:
+    CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.59
+  response: |-
+    7E8056212C3006A
+    7E80341049F
 - expected_values:
     CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.8
   response: |-

@@ -21,6 +21,11 @@ test_cases:
     7E803410425
     7E804411F012E
 - expected_values:
+    LOAD_PCT: 15.68627
+  response: |-
+    7E803410428
+    7E803410D20
+- expected_values:
     LOAD_PCT: 16.07843
   response: |-
     7E803410429
@@ -31,10 +36,10 @@ test_cases:
     7E80341042B
     7E80341042B
 - expected_values:
-    LOAD_PCT: 16.86275
+    LOAD_PCT: 22.35294
   response: |-
-    7E80341042B
-    7E803410D00
+    7E803410439
+    7E804410C152A
 - expected_values:
     LOAD_PCT: 39.21569
   response: |-
@@ -50,6 +55,12 @@ test_cases:
   response: |-
     7E80341049C
     7E803410D5F
+- expected_values:
+    LOAD_PCT: 63.13725
+  response: |-
+    7E8034104A1
+    7E8100C430500140017
+    7E821001900240449AA
 - expected_values:
     LOAD_PCT: 100
   response: 7E8034104FF

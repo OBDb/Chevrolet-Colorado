@@ -21,6 +21,16 @@ test_cases:
     7E804621C1B40
     7E804411F0055
 - expected_values:
+    CHEVROLET_EOP_CALC: 280
+  response: |-
+    7E804621C1B46
+    7E803410D14
+- expected_values:
+    CHEVROLET_EOP_CALC: 296
+  response: |-
+    7E804621C1B4A
+    7E806419D00270027
+- expected_values:
     CHEVROLET_EOP_CALC: 304
   response: |-
     7E804621C1B4C
