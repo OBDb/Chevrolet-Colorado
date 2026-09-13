@@ -14,6 +14,9 @@ test_cases:
     7E80462120500
     7E803410D26
 - expected_values:
+    CHEVROLET_MISFIRES_C2_CUR: 1
+  response: '7E80462120501'
+- expected_values:
     CHEVROLET_MISFIRES_C2_CUR: 2
   response: '7E80462120502'
 - expected_values:
