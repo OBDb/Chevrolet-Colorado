@@ -10,5 +10,8 @@ test_cases:
     CHEVROLET_MISFIRES_C6_CUR: 2
   response: 7E8046211EB02
 - expected_values:
+    CHEVROLET_MISFIRES_C6_CUR: 3
+  response: 7E8046211EB03
+- expected_values:
     CHEVROLET_MISFIRES_C6_CUR: 6
   response: 7E8046211EB06
