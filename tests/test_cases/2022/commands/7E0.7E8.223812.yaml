@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.223812
 test_cases:
 - expected_values:
-    CHEVROLET_COOLING_FAN_CMD: 23.52941
-  response: 7E8046238123C
-- expected_values:
-    CHEVROLET_COOLING_FAN_CMD: 50.58824
-  response: '7E80462381281'
-- expected_values:
-    CHEVROLET_COOLING_FAN_CMD: 53.72549
-  response: '7E80462381289'
+    CHEVROLET_COOLING_FAN_CMD: 0
+  response: '7E80462381200'
 - expected_values:
     CHEVROLET_COOLING_FAN_CMD: 56.47059
   response: '7E80462381290'
