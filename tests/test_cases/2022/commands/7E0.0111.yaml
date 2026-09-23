@@ -6,8 +6,8 @@ test_cases:
     0111
     7E803411132
 - expected_values:
-    TP: 14.90196
-  response: '7E803411126'
+    TP: 14.5098
+  response: '7E803411125'
 - expected_values:
     TP: 71.76471
   response: 7E8034111B7
