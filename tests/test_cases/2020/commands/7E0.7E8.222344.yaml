@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EOP_ABS: 96
   response: '7E80462234418'
 - expected_values:
-    CHEVROLET_EOP_ABS: 620
-  response: 7E8046223449B
+    CHEVROLET_EOP_ABS: 664
+  response: 7E804622344A6
