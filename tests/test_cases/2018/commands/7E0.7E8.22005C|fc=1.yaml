@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22005C|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_EOT_V3: 76
+  response: 7E80462005C74
+- expected_values:
+    CHEVROLET_EOT_V3: 79
+  response: 7E80462005C77
+- expected_values:
+    CHEVROLET_EOT_V3: 81
+  response: 7E80462005C79
+- expected_values:
+    CHEVROLET_EOT_V3: 82
+  response: 7E80462005C7A
+- expected_values:
+    CHEVROLET_EOT_V3: 83
+  response: 7E80462005C7B
+- expected_values:
+    CHEVROLET_EOT_V3: 84
+  response: 7E80462005C7C
+- expected_values:
+    CHEVROLET_EOT_V3: 85
+  response: 7E80462005C7D
+- expected_values:
+    CHEVROLET_EOT_V3: 86
+  response: 7E80462005C7E
+- expected_values:
+    CHEVROLET_EOT_V3: 87
+  response: 7E80462005C7F
