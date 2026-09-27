@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_EOT_V3: 28
+    CHEVROLET_EOT: 28
   response: 7E80462005C44
 - expected_values:
-    CHEVROLET_EOT_V3: 92
+    CHEVROLET_EOT: 92
   response: 7E80462005C84
