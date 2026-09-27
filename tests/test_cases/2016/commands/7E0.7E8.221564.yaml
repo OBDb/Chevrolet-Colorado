@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
-    CHEVROLET_AC_HIGH_SIDE_P: 145.44
-  response: '7E80462156448'
+    CHEVROLET_AC_HIGH_SIDE_P: 121.2
+  response: 7E8046215643C
 - expected_values:
-    CHEVROLET_AC_HIGH_SIDE_P: 159.58
-  response: 7E8046215644F
+    CHEVROLET_AC_HIGH_SIDE_P: 246.44
+  response: 7E8046215647A
