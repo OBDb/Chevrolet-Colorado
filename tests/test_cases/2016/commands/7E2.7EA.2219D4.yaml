@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.2219D4
+test_cases:
+- expected_values:
+    CHEVROLET_CLU_SLIP_C3_RING: 1289.5
+  response: 7EA056219D41426
+- expected_values:
+    CHEVROLET_CLU_SLIP_C3_RING: 1441.5
+  response: 7EA056219D41686
+- expected_values:
+    CHEVROLET_CLU_SLIP_C3_RING: 1450.25
+  response: 7EA056219D416A9
+- expected_values:
+    CHEVROLET_CLU_SLIP_C3_RING: 1452.75
+  response: 7EA056219D416B3
