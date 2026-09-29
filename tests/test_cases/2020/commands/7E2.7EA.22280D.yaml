@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.22280D
+test_cases:
+- expected_values:
+    CHEVROLET_ATF_T_VAR_6: 71
+  response: 7EA0462280D6F
+- expected_values:
+    CHEVROLET_ATF_T_VAR_6: 72
+  response: 7EA0462280D70
+- expected_values:
+    CHEVROLET_ATF_T_VAR_6: 73
+  response: 7EA0462280D71
