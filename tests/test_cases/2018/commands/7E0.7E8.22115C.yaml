@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EOP_2: -0.6
   response: 7E80462115C23
 - expected_values:
-    CHEVROLET_EOP_2: 46.8
-  response: 7E80462115C72
+    CHEVROLET_EOP_2: 52.8
+  response: 7E80462115C7C

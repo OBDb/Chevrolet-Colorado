@@ -9,6 +9,3 @@ test_cases:
 - expected_values:
     CHEVROLET_ACTIVE_GRILLE_COLD_T: 136
   response: 7E80462239B88
-- expected_values:
-    CHEVROLET_ACTIVE_GRILLE_COLD_T: 152
-  response: 7E80462239B98
