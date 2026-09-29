@@ -1,20 +1,11 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 13.546
-  response: 7E80562004234EA
+    CHEVROLET_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
 - expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 13.596
-  response: 7E805620042351C
+    CHEVROLET_M_CTRL_MODULE_V: 13.82
+  response: 7E80562004235FC
 - expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 13.87
-  response: 7E805620042362E
-- expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 14.218
-  response: 7E805620042378A
-- expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 14.467
-  response: '7E8056200423883'
-- expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 15.015
-  response: 7E8056200423AA7
+    CHEVROLET_M_CTRL_MODULE_V: 14.941
+  response: 7E8056200423A5D
