@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    CHEVROLET_M_CTRL_MODULE_V: 14.333
-  response: 7E80562004237FD
+    CHEVROLET_M_CTRL_MODULE_V: 13.567
+  response: 7E80562004234FF
 - expected_values:
     CHEVROLET_M_CTRL_MODULE_V: 15.007
   response: 7E8056200423A9F
