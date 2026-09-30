@@ -4,6 +4,9 @@ test_cases:
     CHEVROLET_TP_FL: 220
   response: 641056250050DC0
 - expected_values:
+    CHEVROLET_TP_FL: 222.75
+  response: 641056250050DEC
+- expected_values:
     CHEVROLET_TP_FL: 225.5
   response: '641056250050E18'
 - expected_values:
