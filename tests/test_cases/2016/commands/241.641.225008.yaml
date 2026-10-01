@@ -1,5 +1,0 @@
-command_id: 241.641.225008
-test_cases:
-- expected_values:
-    CHEVROLET_TP_RL: 225.5
-  response: '641056250080E18'

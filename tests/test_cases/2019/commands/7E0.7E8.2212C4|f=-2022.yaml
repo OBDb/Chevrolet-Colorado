@@ -1,0 +1,28 @@
+command_id: 7E0.7E8.2212C4|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 0
+  response: 7E8056212C40000
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 0.555
+  response: |-
+    7E8056212C40025
+    7E803410D1C
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 1.215
+  response: |-
+    7E8056212C40051
+    7E803410D00
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 1.575
+  response: |-
+    7E8056212C40069
+    7E803410D34
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 1.71
+  response: |-
+    7E8056212C40072
+    7E803410D26
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 2.265
+  response: 7E8056212C40097

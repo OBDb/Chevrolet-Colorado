@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221144|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_CABIN_AC_HIGH_SIDE_V: 1.74
+  response: '7E80462114457'
+- expected_values:
+    COLORADO_CABIN_AC_HIGH_SIDE_V: 3.02
+  response: '7E80462114497'

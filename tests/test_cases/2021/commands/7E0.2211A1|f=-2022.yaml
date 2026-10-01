@@ -1,0 +1,61 @@
+command_id: 7E0.2211A1|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_RUNTM: 5457
+  response: |-
+    2211A11
+    7E8056211A11551
+- expected_values:
+    COLORADO_RUNTM: 1178
+  response: '7E8 05 62 11 A1 04 9A '
+- expected_values:
+    COLORADO_RUNTM: 1271
+  response: '7E8 05 62 11 A1 04 F7 '
+- expected_values:
+    COLORADO_RUNTM: 1807
+  response: '7E8 05 62 11 A1 07 0F '
+- expected_values:
+    COLORADO_RUNTM: 2656
+  response: '7E8 05 62 11 A1 0A 60 '
+- expected_values:
+    COLORADO_RUNTM: 5927
+  response: '7E8 05 62 11 A1 17 27 '
+- expected_values:
+    COLORADO_RUNTM: 0
+  response: 7E8056211A10000
+- expected_values:
+    COLORADO_RUNTM: 20
+  response: |-
+    7E8056211A10014
+    7E804411F0015
+- expected_values:
+    COLORADO_RUNTM: 116
+  response: |-
+    7E8056211A10074
+    7E803412F7C
+- expected_values:
+    COLORADO_RUNTM: 142
+  response: |-
+    7E8056211A1008E
+    7E8044131317D
+- expected_values:
+    COLORADO_RUNTM: 255
+  response: 7E8056211A100FF
+- expected_values:
+    COLORADO_RUNTM: 291
+  response: |-
+    7E8056211A10123
+    7E806419D00000000
+- expected_values:
+    COLORADO_RUNTM: 593
+  response: |-
+    7E8056211A10251
+    7E80641010507E500
+- expected_values:
+    COLORADO_RUNTM: 788
+  response: |-
+    7E8056211A10314
+    7E806419D007E007E
+- expected_values:
+    COLORADO_RUNTM: 14083
+  response: 7E8056211A13703

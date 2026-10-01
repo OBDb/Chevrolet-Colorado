@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221C47|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 0
+  response: 7E804621C4700
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 12.5
+  response: 7E804621C477D
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 12.6
+  response: 7E804621C477E
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 12.7
+  response: 7E804621C477F

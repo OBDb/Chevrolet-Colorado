@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221200|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: '7E80462120000'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 2
+  response: '7E80462120002'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 4
+  response: '7E80462120004'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 8
+  response: '7E80462120008'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 10
+  response: 7E8046212000A
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 22
+  response: '7E80462120016'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 24
+  response: '7E80462120018'
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 30
+  response: 7E8046212001E

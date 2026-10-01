@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221940|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_ATF_T: 31
+  response: 7EA0462194047
+- expected_values:
+    COLORADO_ATF_T: 74
+  response: 7EA0462194072
