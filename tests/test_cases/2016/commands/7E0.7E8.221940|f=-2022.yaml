@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221940|f=-2022
 test_cases:
 - expected_values:
-    COLORADO_ATF_T_VAR_1: 32
-  response: '7E80462194048'
+    COLORADO_ATF_T_VAR_1: 29
+  response: '7E80462194045'
 - expected_values:
     COLORADO_ATF_T_VAR_1: 68
   response: 7E8046219406C
