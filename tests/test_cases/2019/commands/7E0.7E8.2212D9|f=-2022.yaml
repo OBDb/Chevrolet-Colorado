@@ -1,0 +1,13 @@
+command_id: 7E0.7E8.2212D9|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_TOTAL_KNOCK_RETARD: 0
+  response: 7E8046212D900
+- expected_values:
+    COLORADO_TOTAL_KNOCK_RETARD: 0
+  response: |-
+    7E8046212D900
+    7E803410D23
+- expected_values:
+    COLORADO_TOTAL_KNOCK_RETARD: 12.6
+  response: 7E8046212D91C

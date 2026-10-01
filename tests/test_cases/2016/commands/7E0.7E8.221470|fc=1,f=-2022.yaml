@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221470|fc=1,f=-2022
+test_cases:
+- expected_values:
+    COLORADO_EOP_DA11: 8
+  response: '7E80462147002'
+- expected_values:
+    COLORADO_EOP_DA11: 548
+  response: '7E80462147089'

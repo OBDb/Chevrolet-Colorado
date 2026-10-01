@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2212C4|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 0
+  response: 7E8056212C40000
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 3.735
+  response: 7E8056212C400F9
+- expected_values:
+    COLORADO_INJECTOR_DUTY_CYCLE_BANK_2: 4.35
+  response: 7E8056212C40122

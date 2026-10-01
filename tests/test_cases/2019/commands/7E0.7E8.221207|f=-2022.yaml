@@ -1,0 +1,31 @@
+command_id: 7E0.7E8.221207|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: '7E80462120700'
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D1F
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D2E
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D42
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E803410D4A
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 1
+  response: '7E80462120701'
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 2
+  response: '7E80462120702'

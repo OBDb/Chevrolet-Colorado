@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22005C|fc=1,f=-2022
+test_cases:
+- expected_values:
+    COLORADO_EOT: 93
+  response: 7E80462005C85
+- expected_values:
+    COLORADO_EOT: 94
+  response: 7E80462005C86
+- expected_values:
+    COLORADO_EOT: 97
+  response: 7E80462005C89
+- expected_values:
+    COLORADO_EOT: 99
+  response: 7E80462005C8B

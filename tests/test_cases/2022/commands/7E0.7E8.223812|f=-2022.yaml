@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.223812|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 0
+  response: '7E80462381200'
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 89.01961
+  response: 7E804623812E3
