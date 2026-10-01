@@ -4,5 +4,5 @@ test_cases:
     COLORADO_14V_POWER_MODULE_V: 0
   response: 7E804621C4700
 - expected_values:
-    COLORADO_14V_POWER_MODULE_V: 15.7
-  response: 7E804621C479D
+    COLORADO_14V_POWER_MODULE_V: 15.8
+  response: 7E804621C479E
