@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211EB|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: 7E8046211EB00
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 1
+  response: 7E8046211EB01
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 2
+  response: 7E8046211EB02
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 3
+  response: 7E8046211EB03
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 6
+  response: 7E8046211EB06

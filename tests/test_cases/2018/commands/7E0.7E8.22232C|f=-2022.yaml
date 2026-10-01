@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22232C|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 24
+  response: 7E80462232C40
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 25
+  response: 7E80462232C41
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 26
+  response: 7E80462232C42
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 27
+  response: 7E80462232C43
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 28
+  response: 7E80462232C44
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 29
+  response: 7E80462232C45
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 30
+  response: 7E80462232C46
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 31
+  response: 7E80462232C47
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 32
+  response: 7E80462232C48
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 33
+  response: 7E80462232C49

@@ -1,0 +1,28 @@
+command_id: 7E0.7E8.222344|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_EOP_ABS: 96
+  response: '7E80462234418'
+- expected_values:
+    COLORADO_EOP_ABS: 392
+  response: |-
+    7E80462234462
+    7E803410D0C
+- expected_values:
+    COLORADO_EOP_ABS: 420
+  response: |-
+    7E80462234469
+    7E803410D4E
+- expected_values:
+    COLORADO_EOP_ABS: 428
+  response: |-
+    7E8046223446B
+    7E803410D42
+- expected_values:
+    COLORADO_EOP_ABS: 468
+  response: |-
+    7E80462234475
+    7E803410D33
+- expected_values:
+    COLORADO_EOP_ABS: 872
+  response: 7E804622344DA
