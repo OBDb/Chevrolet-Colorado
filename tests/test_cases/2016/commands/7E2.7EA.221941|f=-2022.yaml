@@ -4,8 +4,8 @@ test_cases:
     COLORADO_TRANS_ISS: 0
   response: 7EA056219410000
 - expected_values:
-    COLORADO_TRANS_ISS: 3701.75
-  response: 7EA0562194139D7
+    COLORADO_TRANS_ISS: 1085.75
+  response: 7EA0562194110F7
 - expected_values:
     COLORADO_TRANS_ISS: 4247
   response: 7EA05621941425C
