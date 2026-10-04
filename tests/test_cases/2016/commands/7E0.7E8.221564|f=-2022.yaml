@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221564|f=-2022
 test_cases:
 - expected_values:
-    COLORADO_AC_HIGH_SIDE_P: 121.2
-  response: 7E8046215643C
+    COLORADO_AC_HIGH_SIDE_P: 107.06
+  response: '7E80462156435'
 - expected_values:
     COLORADO_AC_HIGH_SIDE_P: 284.82
   response: 7E8046215648D
