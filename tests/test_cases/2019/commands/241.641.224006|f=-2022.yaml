@@ -1,0 +1,5 @@
+command_id: 241.641.224006|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_TID_FR: 2043876139
+  response: 6410762400679D3132B
