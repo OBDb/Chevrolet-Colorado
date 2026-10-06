@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221145|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 0
+  response: '7E80462114500'
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 6
+  response: '7E80462114506'
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 36
+  response: '7E80462114524'
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 132
+  response: '7E80462114584'
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 179
+  response: 7E804621145B3
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 185
+  response: 7E804621145B9
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 188
+  response: 7E804621145BC
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 199
+  response: 7E804621145C7
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 204
+  response: 7E804621145CC

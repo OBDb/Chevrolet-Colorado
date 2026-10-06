@@ -1,0 +1,32 @@
+command_id: 7E2.7EA.221941|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_TRANS_ISS: 0
+  response: 7EA056219410000
+- expected_values:
+    COLORADO_TRANS_ISS: 2478.25
+  response: 7EA0562194126B9
+- expected_values:
+    COLORADO_TRANS_ISS: 2501.75
+  response: 7EA056219412717
+- expected_values:
+    COLORADO_TRANS_ISS: 2782
+  response: 7EA056219412B78
+- expected_values:
+    COLORADO_TRANS_ISS: 2884
+  response: 7EA056219412D10
+- expected_values:
+    COLORADO_TRANS_ISS: 2976.5
+  response: 7EA056219412E82
+- expected_values:
+    COLORADO_TRANS_ISS: 3144.25
+  response: 7EA056219413121
+- expected_values:
+    COLORADO_TRANS_ISS: 3258.75
+  response: 7EA0562194132EB
+- expected_values:
+    COLORADO_TRANS_ISS: 3609.25
+  response: 7EA056219413865
+- expected_values:
+    COLORADO_TRANS_ISS: 3811.25
+  response: 7EA056219413B8D

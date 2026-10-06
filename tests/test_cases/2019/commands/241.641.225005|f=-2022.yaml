@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     COLORADO_TP_FL_241: 231
   response: '641056250050E70'
+- expected_values:
+    COLORADO_TP_FL_241: 233.75
+  response: 641056250050E9C

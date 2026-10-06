@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221564|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 62.62
+  response: 7E8046215641F
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 64.64
+  response: '7E80462156420'
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 66.66
+  response: '7E80462156421'
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 68.68
+  response: '7E80462156422'
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 70.7
+  response: '7E80462156423'
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 72.72
+  response: '7E80462156424'
+- expected_values:
+    COLORADO_AC_HIGH_SIDE_P: 74.74
+  response: '7E80462156425'
