@@ -4,14 +4,5 @@ test_cases:
     COLORADO_CABIN_AC_HIGH_SIDE_V: 0.88
   response: 7E8046211442C
 - expected_values:
-    COLORADO_CABIN_AC_HIGH_SIDE_V: 0.9
-  response: 7E8046211442D
-- expected_values:
-    COLORADO_CABIN_AC_HIGH_SIDE_V: 0.94
-  response: 7E8046211442F
-- expected_values:
-    COLORADO_CABIN_AC_HIGH_SIDE_V: 0.96
-  response: '7E80462114430'
-- expected_values:
-    COLORADO_CABIN_AC_HIGH_SIDE_V: 0.98
-  response: '7E80462114431'
+    COLORADO_CABIN_AC_HIGH_SIDE_V: 1.44
+  response: '7E80462114448'

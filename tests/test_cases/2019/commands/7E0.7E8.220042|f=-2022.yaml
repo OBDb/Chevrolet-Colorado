@@ -4,26 +4,8 @@ test_cases:
     COLORADO_M_CTRL_MODULE_V: 14.186
   response: 7E805620042376A
 - expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.395
-  response: 7E805620042383B
-- expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.444
-  response: 7E805620042386C
-- expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.451
-  response: '7E8056200423873'
-- expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.464
-  response: '7E8056200423880'
-- expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.472
-  response: '7E8056200423888'
-- expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.52
-  response: 7E80562004238B8
-- expected_values:
     COLORADO_M_CTRL_MODULE_V: 14.569
   response: 7E80562004238E9
 - expected_values:
-    COLORADO_M_CTRL_MODULE_V: 14.813
-  response: 7E80562004239DD
+    COLORADO_M_CTRL_MODULE_V: 14.618
+  response: 7E805620042391A

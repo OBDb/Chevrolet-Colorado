@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     COLORADO_MIL_CAUSE: 21
   response: 7E80462135F15
+- expected_values:
+    COLORADO_MIL_CAUSE: 21
+  response: |-
+    7E80462135F15
+    7E803410D4C

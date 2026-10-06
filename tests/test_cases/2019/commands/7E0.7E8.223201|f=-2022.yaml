@@ -16,6 +16,9 @@ test_cases:
     COLORADO_CURRENT_GEAR_VAR_3: 5
   response: '7E80462320105'
 - expected_values:
+    COLORADO_CURRENT_GEAR_VAR_3: 6
+  response: '7E80462320106'
+- expected_values:
     COLORADO_CURRENT_GEAR_VAR_3: 7
   response: '7E80462320107'
 - expected_values:

@@ -4,14 +4,8 @@ test_cases:
     COLORADO_TC_SLIP_VSS: 8.75
   response: 7EA056219910046
 - expected_values:
-    COLORADO_TC_SLIP_VSS: 15
-  response: 7EA056219910078
+    COLORADO_TC_SLIP_VSS: 64.875
+  response: 7EA056219910207
 - expected_values:
-    COLORADO_TC_SLIP_VSS: 15.625
-  response: 7EA05621991007D
-- expected_values:
-    COLORADO_TC_SLIP_VSS: 37.125
-  response: 7EA056219910129
-- expected_values:
-    COLORADO_TC_SLIP_VSS: 43.25
-  response: 7EA05621991015A
+    COLORADO_TC_SLIP_VSS: -0.5
+  response: 7EA05621991FFFC

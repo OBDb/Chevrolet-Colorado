@@ -4,11 +4,17 @@ test_cases:
     COLORADO_IGN_1_V: 14.2
   response: 7E8046211418E
 - expected_values:
+    COLORADO_IGN_1_V: 14.3
+  response: 7E8046211418F
+- expected_values:
     COLORADO_IGN_1_V: 14.4
   response: '7E80462114190'
 - expected_values:
     COLORADO_IGN_1_V: 14.5
   response: '7E80462114191'
+- expected_values:
+    COLORADO_IGN_1_V: 14.6
+  response: '7E80462114192'
 - expected_values:
     COLORADO_IGN_1_V: 14.9
   response: '7E80462114195'

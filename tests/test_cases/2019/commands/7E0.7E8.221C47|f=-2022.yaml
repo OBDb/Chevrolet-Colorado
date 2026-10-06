@@ -4,6 +4,9 @@ test_cases:
     COLORADO_14V_POWER_MODULE_V: 14.2
   response: 7E804621C478E
 - expected_values:
+    COLORADO_14V_POWER_MODULE_V: 14.3
+  response: 7E804621C478F
+- expected_values:
     COLORADO_14V_POWER_MODULE_V: 14.4
   response: 7E804621C4790
 - expected_values:
@@ -12,6 +15,12 @@ test_cases:
 - expected_values:
     COLORADO_14V_POWER_MODULE_V: 14.6
   response: 7E804621C4792
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 14.7
+  response: 7E804621C4793
+- expected_values:
+    COLORADO_14V_POWER_MODULE_V: 14.8
+  response: 7E804621C4794
 - expected_values:
     COLORADO_14V_POWER_MODULE_V: 14.9
   response: 7E804621C4795

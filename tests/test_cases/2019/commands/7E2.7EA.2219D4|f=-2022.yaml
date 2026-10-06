@@ -4,29 +4,5 @@ test_cases:
     COLORADO_CLU_SLIP_C3_RING: 0
   response: 7EA056219D40000
 - expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 2478.25
-  response: 7EA056219D426B9
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 2501.75
-  response: 7EA056219D42717
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 2818.25
-  response: 7EA056219D42C09
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 2951.5
-  response: 7EA056219D42E1E
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 2974.75
-  response: 7EA056219D42E7B
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 3216.5
-  response: 7EA056219D43242
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 3223.5
-  response: 7EA056219D4325E
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 3643.75
-  response: 7EA056219D438EF
-- expected_values:
-    COLORADO_CLU_SLIP_C3_RING: 3910
-  response: 7EA056219D43D18
+    COLORADO_CLU_SLIP_C3_RING: 5246.75
+  response: 7EA056219D451FB
