@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22232C|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 13
+  response: 7E80462232C35
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 14
+  response: 7E80462232C36
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 15
+  response: 7E80462232C37
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 16
+  response: 7E80462232C38
+- expected_values:
+    COLORADO_AIR_TEMP_AMBIENT_2: 17
+  response: 7E80462232C39
