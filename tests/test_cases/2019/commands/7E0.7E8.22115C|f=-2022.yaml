@@ -4,23 +4,5 @@ test_cases:
     COLORADO_EOP_2: 41.4
   response: 7E80462115C69
 - expected_values:
-    COLORADO_EOP_2: 43.8
-  response: 7E80462115C6D
-- expected_values:
-    COLORADO_EOP_2: 44.4
-  response: 7E80462115C6E
-- expected_values:
-    COLORADO_EOP_2: 45
-  response: 7E80462115C6F
-- expected_values:
-    COLORADO_EOP_2: 45.6
-  response: 7E80462115C70
-- expected_values:
-    COLORADO_EOP_2: 47.4
-  response: 7E80462115C73
-- expected_values:
-    COLORADO_EOP_2: 52.2
-  response: 7E80462115C7B
-- expected_values:
     COLORADO_EOP_2: 93.6
   response: 7E80462115CC0

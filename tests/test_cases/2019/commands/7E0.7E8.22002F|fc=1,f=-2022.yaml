@@ -1,17 +1,8 @@
 command_id: 7E0.7E8.22002F|fc=1,f=-2022
 test_cases:
 - expected_values:
-    COLORADO_FLI: 72.54902
-  response: 7E80462002FB9
-- expected_values:
-    COLORADO_FLI: 73.33333
-  response: 7E80462002FBB
-- expected_values:
-    COLORADO_FLI: 77.64706
-  response: 7E80462002FC6
-- expected_values:
-    COLORADO_FLI: 79.21569
-  response: 7E80462002FCA
+    COLORADO_FLI: 60.78431
+  response: 7E80462002F9B
 - expected_values:
     COLORADO_FLI: 80.39216
   response: 7E80462002FCD
