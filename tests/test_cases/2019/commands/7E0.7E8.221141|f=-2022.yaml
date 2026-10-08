@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221141|f=-2022
 test_cases:
 - expected_values:
+    COLORADO_IGN_1_V: 14.1
+  response: 7E8046211418D
+- expected_values:
     COLORADO_IGN_1_V: 14.2
   response: 7E8046211418E
 - expected_values:
