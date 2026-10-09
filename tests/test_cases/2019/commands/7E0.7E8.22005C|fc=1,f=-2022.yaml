@@ -4,5 +4,5 @@ test_cases:
     COLORADO_EOT: 24
   response: 7E80462005C40
 - expected_values:
-    COLORADO_EOT: 78
-  response: 7E80462005C76
+    COLORADO_EOT: 87
+  response: 7E80462005C7F
