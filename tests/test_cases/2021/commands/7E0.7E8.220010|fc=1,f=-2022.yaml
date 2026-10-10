@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220010|fc=1,f=-2022
+test_cases:
+- expected_values:
+    COLORADO_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    COLORADO_MAF: 33.06
+  response: 7E8056200100CEA

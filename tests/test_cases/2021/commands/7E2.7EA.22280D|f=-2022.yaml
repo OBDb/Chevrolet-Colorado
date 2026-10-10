@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.22280D|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_ATF_T_VAR_6: 52
+  response: 7EA0462280D5C
+- expected_values:
+    COLORADO_ATF_T_VAR_6: 66
+  response: 7EA0462280D6A
