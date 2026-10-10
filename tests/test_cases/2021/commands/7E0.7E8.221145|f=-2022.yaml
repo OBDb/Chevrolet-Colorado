@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221145|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 7
+  response: '7E80462114507'
+- expected_values:
+    COLORADO_HEATED_OXYGEN_SENS: 197
+  response: 7E804621145C5

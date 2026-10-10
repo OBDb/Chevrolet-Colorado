@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22115C|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_EOP_2: -7.2
+  response: 7E80462115C18
+- expected_values:
+    COLORADO_EOP_2: 35.4
+  response: 7E80462115C5F

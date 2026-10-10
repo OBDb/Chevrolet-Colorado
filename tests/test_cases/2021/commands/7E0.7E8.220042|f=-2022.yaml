@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
+    COLORADO_M_CTRL_MODULE_V: 14.073
+  response: 7E80562004236F9
+- expected_values:
+    COLORADO_M_CTRL_MODULE_V: 14.908
+  response: 7E8056200423A3C
