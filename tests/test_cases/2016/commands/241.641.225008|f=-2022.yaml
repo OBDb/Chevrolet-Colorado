@@ -1,6 +1,9 @@
 command_id: 241.641.225008|f=-2022
 test_cases:
 - expected_values:
+    COLORADO_TP_RL_241: 209
+  response: 641056250080D10
+- expected_values:
     COLORADO_TP_RL_241: 211.75
   response: 641056250080D3C
 - expected_values:
