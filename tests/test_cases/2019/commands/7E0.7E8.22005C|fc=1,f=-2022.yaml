@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22005C|fc=1,f=-2022
 test_cases:
 - expected_values:
-    COLORADO_EOT: 16
-  response: 7E80462005C38
+    COLORADO_EOT: 14
+  response: 7E80462005C36
 - expected_values:
     COLORADO_EOT: 90
   response: 7E80462005C82
