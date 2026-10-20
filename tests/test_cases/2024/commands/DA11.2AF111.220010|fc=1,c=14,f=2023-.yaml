@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.220010|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    COLORADO_MAF_DA11: 4.02
+  response: 142AF111056200100192

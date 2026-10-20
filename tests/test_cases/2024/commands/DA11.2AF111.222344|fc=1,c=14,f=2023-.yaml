@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.222344|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    COLORADO_EOP_ABS_2: 240
+  response: 142AF111046223443C
