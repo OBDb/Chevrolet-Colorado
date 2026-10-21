@@ -58,3 +58,8 @@ test_cases:
   response: |-
     7E8046211EA00
     7E80641010507E500
+- expected_values:
+    COLORADO_MISFIRES_C5_CUR: 0
+  response: |-
+    7E8046211EA00
+    7E80641A6002428A9

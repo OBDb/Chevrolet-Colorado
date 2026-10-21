@@ -47,6 +47,11 @@ test_cases:
     7E8056211A10123
     7E806419D00000000
 - expected_values:
+    COLORADO_RUNTM: 345
+  response: |-
+    7E8056211A10159
+    7E806419D00000000
+- expected_values:
     COLORADO_RUNTM: 593
   response: |-
     7E8056211A10251

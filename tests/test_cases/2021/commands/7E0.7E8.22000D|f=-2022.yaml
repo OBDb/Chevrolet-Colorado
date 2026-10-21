@@ -69,6 +69,11 @@ test_cases:
     7E80462000D37
     7E8024700
 - expected_values:
+    COLORADO_VSS: 77
+  response: |-
+    7E80462000D4D
+    7E804411F015C
+- expected_values:
     COLORADO_VSS: 93
   response: |-
     7E80462000D5D
