@@ -57,3 +57,31 @@ test_cases:
   response: |-
     7E8046211EB00
     7E804411F013B
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: |-
+    7E8046211EB00
+    7E80641010507E500
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: |-
+    7E8046211EB00
+    7E806419D003C003C
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: |-
+    7E8046211EB00
+    7E80641A6002428D8
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: |-
+    7E8046211EB00
+    7E8100C430500140017
+    7E821001900240449AA
+- expected_values:
+    COLORADO_MISFIRES_C6_CUR: 0
+  response: |-
+    7E8046211EB00
+    7E8101062007F0300EF
+    7E821E455001E12B600
+    7E822000000AAAAAAAA

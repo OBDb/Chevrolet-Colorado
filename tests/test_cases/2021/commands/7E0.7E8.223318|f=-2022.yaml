@@ -18,6 +18,11 @@ test_cases:
     COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
   response: |-
     7E80462331897
+    7E8034104DE
+- expected_values:
+    COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
     7E803410D00
 - expected_values:
     COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
@@ -30,6 +35,11 @@ test_cases:
     7E80462331897
     7E803410D5F
     7E804410C185A
+- expected_values:
+    COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E803414952
 - expected_values:
     COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
   response: |-
@@ -50,6 +60,11 @@ test_cases:
   response: |-
     7E80462331897
     7E806419D00110011
+- expected_values:
+    COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: |-
+    7E80462331897
+    7E806419D00A900A9
 - expected_values:
     COLORADO_EOP_CTRL_SOLENOID_VALVE_CMD: 1
   response: |-

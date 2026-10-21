@@ -19,7 +19,27 @@ test_cases:
     COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
   response: |-
     7E8046213AF0A
+    7E803410486
+- expected_values:
+    COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
+  response: |-
+    7E8046213AF0A
     7E803410D5D
+- expected_values:
+    COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
+  response: |-
+    7E8046213AF0A
+    7E804411F01D9
+- expected_values:
+    COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
+  response: |-
+    7E8046213AF0A
+    7E804411F027E
+- expected_values:
+    COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
+  response: |-
+    7E8046213AF0A
+    7E80641010507E500
 - expected_values:
     COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
   response: |-
@@ -32,6 +52,14 @@ test_cases:
     7E8100C430500140017
     7E821001900240449AA
 - expected_values:
+    COLORADO_COOLING_FAN_MOTOR_CMD: 3.92157
+  response: |-
+    7E8046213AF0A
+    7E8101062007F0300EF
+    7E821E431001E12B600
+    7E822000000AAAAAAAA
+    7E806419D00180018
+- expected_values:
     COLORADO_COOLING_FAN_MOTOR_CMD: 13.72549
   response: |-
     7E8046213AF23
@@ -41,11 +69,6 @@ test_cases:
   response: |-
     7E8046213AF23
     7E804410C1694
-- expected_values:
-    COLORADO_COOLING_FAN_MOTOR_CMD: 13.72549
-  response: |-
-    7E8046213AF23
-    7E804410C22DC
 - expected_values:
     COLORADO_COOLING_FAN_MOTOR_CMD: 13.72549
   response: |-

@@ -24,6 +24,28 @@ test_cases:
     7E8046223453F
     7E806419D00130013
 - expected_values:
+    COLORADO_EOP: 292
+  response: |-
+    7E80462234549
+    7E803412FA9
+    7E806419D004F004F
+- expected_values:
+    COLORADO_EOP: 292
+  response: |-
+    7E80462234549
+    7E804411F015F
+- expected_values:
+    COLORADO_EOP: 296
+  response: |-
+    7E8046223454A
+    7E80641010507E500
+- expected_values:
+    COLORADO_EOP: 296
+  response: |-
+    7E8046223454A
+    7E8100C430500140017
+    7E821001900240449AA
+- expected_values:
     COLORADO_EOP: 300
   response: |-
     7E8046223454B
@@ -44,6 +66,11 @@ test_cases:
     7E8046223454C
     7E804411F0339
 - expected_values:
+    COLORADO_EOP: 304
+  response: |-
+    7E8046223454C
+    7E806419D00650065
+- expected_values:
     COLORADO_EOP: 308
   response: |-
     7E8046223454D
@@ -54,9 +81,20 @@ test_cases:
     7E8046223454D
     7E803414943
 - expected_values:
-    COLORADO_EOP: 316
+    COLORADO_EOP: 308
   response: |-
-    7E8046223454F
+    7E8046223454D
+    7E804411F0257
+    7E803414958
+- expected_values:
+    COLORADO_EOP: 308
+  response: |-
+    7E8046223454D
+    7E80641010507E500
+- expected_values:
+    COLORADO_EOP: 320
+  response: |-
+    7E80462234550
     7E8100C430500140017
     7E821001900240449AA
 - expected_values:

@@ -23,6 +23,11 @@ test_cases:
     7E80341057D
     7E806419D00130013
 - expected_values:
+    ECT: 85
+  response: |-
+    7E80341057D
+    7E806419D009C009C
+- expected_values:
     ECT: 87
   response: |-
     7E80341057F
@@ -41,6 +46,11 @@ test_cases:
     ECT: 88
   response: |-
     7E803410580
+    7E8024700
+- expected_values:
+    ECT: 88
+  response: |-
+    7E803410580
     7E803412F73
     7E806419D00560056
 - expected_values:
@@ -52,7 +62,22 @@ test_cases:
     ECT: 88
   response: |-
     7E803410580
+    7E804411F023F
+- expected_values:
+    ECT: 88
+  response: |-
+    7E803410580
+    7E80441314407
+- expected_values:
+    ECT: 88
+  response: |-
+    7E803410580
     7E806419D00000000
+- expected_values:
+    ECT: 89
+  response: |-
+    7E803410581
+    7E80441314408
 - expected_values:
     ECT: 91
   response: |-

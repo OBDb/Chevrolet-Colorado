@@ -4,6 +4,11 @@ test_cases:
     EQ_RAT: 1
   response: '7E8 04 41 44 80 00 '
 - expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E803414954
+    7E80441448000
+- expected_values:
     EQ_RAT: 0.70703
   response: 7E80441445A80
 - expected_values:
@@ -35,6 +40,20 @@ test_cases:
   response: |-
     7E80441448000
     7E80641A600236FD0
+- expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E80441448000
+    7E8101062007F0300EF
+    7E821E3D5001E12B600
+    7E822000000AAAAAAAA
+- expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E80441448000
+    7E8101062007F0300EF
+    7E821E43B001E12B600
+    7E822000000AAAAAAAA
 - expected_values:
     EQ_RAT: 1.99
   response: 7E8044144FFFF

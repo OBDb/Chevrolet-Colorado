@@ -69,15 +69,28 @@ test_cases:
     7E80462000D37
     7E8024700
 - expected_values:
-    COLORADO_VSS: 77
+    COLORADO_VSS: 91
   response: |-
-    7E80462000D4D
-    7E804411F015C
+    7E80462000D5B
+    7E8101062007F0300EF
+    7E821E46F001E12B600
+    7E822000000AAAAAAAA
+    7E80641010507E500
 - expected_values:
     COLORADO_VSS: 93
   response: |-
     7E80462000D5D
     7E803410480
+- expected_values:
+    COLORADO_VSS: 94
+  response: |-
+    7E80462000D5E
+    7E80341046A
+- expected_values:
+    COLORADO_VSS: 94
+  response: |-
+    7E80462000D5E
+    7E803414953
 - expected_values:
     COLORADO_VSS: 95
   response: |-
@@ -88,6 +101,11 @@ test_cases:
   response: |-
     7E80462000D5F
     7E804410C17F0
+- expected_values:
+    COLORADO_VSS: 96
+  response: |-
+    7E80462000D60
+    7E804411F027F
 - expected_values:
     COLORADO_VSS: 255
   response: 7E80462000DFF

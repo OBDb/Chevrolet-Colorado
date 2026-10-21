@@ -24,7 +24,12 @@ test_cases:
     COLORADO_COOLING_FAN_CMD: 3.92157
   response: |-
     7E8046238120A
-    7E803410D5E
+    7E8034104FF
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
+    7E803412FAA
 - expected_values:
     COLORADO_COOLING_FAN_CMD: 3.92157
   response: |-
@@ -34,7 +39,33 @@ test_cases:
     COLORADO_COOLING_FAN_CMD: 3.92157
   response: |-
     7E8046238120A
+    7E804411F01BA
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
+    7E80441314409
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
+    7E806419D004E004E
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
     7E806419D00500050
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
+    7E80641A6002428D1
+    7E804411F0200
+- expected_values:
+    COLORADO_COOLING_FAN_CMD: 3.92157
+  response: |-
+    7E8046238120A
+    7E80641A6002428E7
 - expected_values:
     COLORADO_COOLING_FAN_CMD: 13.72549
   response: |-

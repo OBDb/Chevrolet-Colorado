@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     OBDSUP: JOBD & OBD II
   response: 7E803411C0B
+- expected_values:
+    OBDSUP: JOBD & OBD II
+  response: |-
+    7E803411C0B
+    7E804411F01EC

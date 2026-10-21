@@ -24,6 +24,16 @@ test_cases:
     COLORADO_TOTAL_MISFIRE: 0
   response: |-
     7E80462120000
+    7E803412F94
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
+    7E803412FAD
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
     7E803414933
 - expected_values:
     COLORADO_TOTAL_MISFIRE: 0
@@ -44,12 +54,35 @@ test_cases:
     COLORADO_TOTAL_MISFIRE: 0
   response: |-
     7E80462120000
+    7E804411F0256
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
     7E80641010507E500
 - expected_values:
     COLORADO_TOTAL_MISFIRE: 0
   response: |-
     7E80462120000
+    7E806419D00230023
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
     7E806419D00270027
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 0
+  response: |-
+    7E80462120000
+    7E8101062007F0300EF
+    7E821E412001E12B600
+    7E822000000AAAAAAAA
+    7E806419D00330033
+- expected_values:
+    COLORADO_TOTAL_MISFIRE: 2
+  response: |-
+    7E80462120002
+    7E804411F027C
 - expected_values:
     COLORADO_TOTAL_MISFIRE: 4
   response: '7E80462120004'

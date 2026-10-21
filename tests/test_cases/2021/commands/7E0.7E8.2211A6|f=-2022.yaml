@@ -21,6 +21,13 @@ test_cases:
     COLORADO_KNOCK_RETARD: 0
   response: |-
     7E8046211A600
+    7E806419D002A002A
+    7E8024700
+    7E804411F0161
+- expected_values:
+    COLORADO_KNOCK_RETARD: 0
+  response: |-
+    7E8046211A600
     7E80641A600236FDF
 - expected_values:
     COLORADO_KNOCK_RETARD: 1.1
@@ -33,15 +40,42 @@ test_cases:
     7E8046211A608
     7E803410F38
 - expected_values:
+    COLORADO_KNOCK_RETARD: 1.98
+  response: |-
+    7E8046211A609
+    7E803414958
+- expected_values:
+    COLORADO_KNOCK_RETARD: 1.98
+  response: |-
+    7E8046211A609
+    7E80641010507E500
+- expected_values:
+    COLORADO_KNOCK_RETARD: 3.52
+  response: |-
+    7E8046211A610
+    7E804411F0216
+    7E80441314407
+    7E806419D00560056
+- expected_values:
     COLORADO_KNOCK_RETARD: 4.18
   response: |-
     7E8046211A613
     7E806419D00270027
 - expected_values:
+    COLORADO_KNOCK_RETARD: 5.94
+  response: |-
+    7E8046211A61B
+    7E804411F0255
+- expected_values:
     COLORADO_KNOCK_RETARD: 6.6
   response: |-
     7E8046211A61E
     7E806419D005F005F
+- expected_values:
+    COLORADO_KNOCK_RETARD: 8.14
+  response: |-
+    7E8046211A625
+    7E806419D00940094
 - expected_values:
     COLORADO_KNOCK_RETARD: 11.88
   response: 7E8046211A636
