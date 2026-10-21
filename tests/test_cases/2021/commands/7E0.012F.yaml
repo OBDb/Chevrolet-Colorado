@@ -61,15 +61,35 @@ test_cases:
     7E803412F83
     7E804411F001D
 - expected_values:
-    FLI: 54.11765
+    FLI: 63.92157
   response: |-
-    7E803412F8A
-    7E804411F009B
+    7E803412FA3
+    7E806419D00430043
 - expected_values:
-    FLI: 57.2549
+    FLI: 64.31373
   response: |-
-    7E803412F92
-    7E806419D00000000
+    7E803412FA4
+    7E8101062007F0300EF
+    7E821E45A001E12B600
+    7E822000000AAAAAAAA
+- expected_values:
+    FLI: 65.4902
+  response: |-
+    7E803412FA7
+    7E8100C430500140017
+    7E821001900240449AA
+- expected_values:
+    FLI: 67.45098
+  response: |-
+    7E803412FAC
+    7E804411F0243
+    7E803410492
+    7E80341495D
+- expected_values:
+    FLI: 69.01961
+  response: |-
+    7E803412FB0
+    7E804411F0225
 - expected_values:
     FLI: 100
   response: 7E803412FFF

@@ -19,6 +19,11 @@ test_cases:
     MAF: 60.55
   response: '7E8 04 41 10 17 A7 '
 - expected_values:
+    MAF: 28.17
+  response: |-
+    7E8024700
+    7E80441100B01
+- expected_values:
     MAF: 17.06
   response: |-
     7E804410C1AD8
@@ -60,15 +65,25 @@ test_cases:
     7E80441100631
     7E803410D5F
 - expected_values:
-    MAF: 21.28
+    MAF: 18.17
   response: |-
-    7E80441100850
-    7E804410C17D0
+    7E80441100719
+    7E804411F01A0
+- expected_values:
+    MAF: 19.79
+  response: |-
+    7E804411007BB
+    7E806419D00410041
 - expected_values:
     MAF: 24
   response: |-
     7E80441100960
     7E804410C1CAA
+- expected_values:
+    MAF: 28.13
+  response: |-
+    7E80441100AFD
+    7E804411F0162
 - expected_values:
     MAF: 28.26
   response: |-
@@ -79,6 +94,11 @@ test_cases:
   response: |-
     7E80441100C03
     7E806419D00630063
+- expected_values:
+    MAF: 38.35
+  response: |-
+    7E80441100EFB
+    7E8024700
 - expected_values:
     MAF: 74.77
   response: 7E80441101D35

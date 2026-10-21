@@ -57,12 +57,27 @@ test_cases:
     COLORADO_EOT_CALC: 82
   response: |-
     7E8046211547A
+    7E804411F021D
+- expected_values:
+    COLORADO_EOT_CALC: 82
+  response: |-
+    7E8046211547A
+    7E80641010507E500
+- expected_values:
+    COLORADO_EOT_CALC: 82
+  response: |-
+    7E8046211547A
     7E806419D00210021
 - expected_values:
     COLORADO_EOT_CALC: 83
   response: |-
     7E8046211547B
-    7E803410F42
+    7E8024700
+- expected_values:
+    COLORADO_EOT_CALC: 83
+  response: |-
+    7E8046211547B
+    7E803410F31
 - expected_values:
     COLORADO_EOT_CALC: 83
   response: |-

@@ -38,10 +38,10 @@ test_cases:
     7E8046212D905
     7E806419D00120012
 - expected_values:
-    COLORADO_TOTAL_KNOCK_RETARD: 4.05
+    COLORADO_TOTAL_KNOCK_RETARD: 2.7
   response: |-
-    7E8046212D909
-    7E806419D005E005E
+    7E8046212D906
+    7E80641010507E500
 - expected_values:
     COLORADO_TOTAL_KNOCK_RETARD: 5.4
   response: |-
@@ -52,6 +52,16 @@ test_cases:
   response: |-
     7E8046212D90E
     7E803412F74
+- expected_values:
+    COLORADO_TOTAL_KNOCK_RETARD: 6.75
+  response: |-
+    7E8046212D90F
+    7E806419D004F004F
+- expected_values:
+    COLORADO_TOTAL_KNOCK_RETARD: 9.9
+  response: |-
+    7E8046212D916
+    7E804411F023A
 - expected_values:
     COLORADO_TOTAL_KNOCK_RETARD: 12.6
   response: 7E8046212D91C

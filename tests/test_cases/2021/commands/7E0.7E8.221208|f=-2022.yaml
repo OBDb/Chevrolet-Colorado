@@ -46,7 +46,7 @@ test_cases:
     COLORADO_MISFIRES_C4_CUR: 0
   response: |-
     7E80462120800
-    7E804411F02D2
+    7E804411F0218
 - expected_values:
     COLORADO_MISFIRES_C4_CUR: 0
   response: |-
@@ -61,8 +61,20 @@ test_cases:
     COLORADO_MISFIRES_C4_CUR: 0
   response: |-
     7E80462120800
+    7E806419D00200020
+- expected_values:
+    COLORADO_MISFIRES_C4_CUR: 0
+  response: |-
+    7E80462120800
     7E8100C430500140017
     7E821001900240449AA
+- expected_values:
+    COLORADO_MISFIRES_C4_CUR: 0
+  response: |-
+    7E80462120800
+    7E8101062007F0300EF
+    7E821E418001E12B600
+    7E822000000AAAAAAAA
 - expected_values:
     COLORADO_MISFIRES_C4_CUR: 2
   response: '7E80462120802'

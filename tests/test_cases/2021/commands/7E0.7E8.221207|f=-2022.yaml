@@ -10,6 +10,11 @@ test_cases:
     COLORADO_MISFIRES_C3_CUR: 0
   response: |-
     7E80462120700
+    7E8034104C6
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
     7E803410D00
 - expected_values:
     COLORADO_MISFIRES_C3_CUR: 0
@@ -35,6 +40,11 @@ test_cases:
     COLORADO_MISFIRES_C3_CUR: 0
   response: |-
     7E80462120700
+    7E804411F01DB
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
     7E806419D00260026
 - expected_values:
     COLORADO_MISFIRES_C3_CUR: 0
@@ -42,6 +52,21 @@ test_cases:
     7E80462120700
     7E806419D002F002F
     7E80341494D
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E806419D00380038
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E806419D00B600B6
+- expected_values:
+    COLORADO_MISFIRES_C3_CUR: 0
+  response: |-
+    7E80462120700
+    7E80641A6002428DF
 - expected_values:
     COLORADO_MISFIRES_C3_CUR: 2
   response: '7E80462120702'
