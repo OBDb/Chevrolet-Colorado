@@ -9,5 +9,10 @@ test_cases:
     7E8046211418D
     7E803410D04
 - expected_values:
+    COLORADO_IGN_1_V: 14.8
+  response: |-
+    7E80462114194
+    7E803410D0B
+- expected_values:
     COLORADO_IGN_1_V: 15.1
   response: '7E80462114197'
