@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.22002F|fc=1,c=14,f=2023-
 test_cases:
 - expected_values:
-    COLORADO_FLI_DA11: 61.17647
-  response: 142AF1110462002F9C
+    COLORADO_FLI_DA11: 53.33333
+  response: 142AF1110462002F88
 - expected_values:
     COLORADO_FLI_DA11: 92.94118
   response: 142AF1110462002FED
