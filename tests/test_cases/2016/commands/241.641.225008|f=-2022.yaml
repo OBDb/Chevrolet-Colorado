@@ -4,8 +4,8 @@ test_cases:
     COLORADO_TP_RL_241: 209
   response: 641056250080D10
 - expected_values:
-    COLORADO_TP_RL_241: 222.75
-  response: 641056250080DEC
-- expected_values:
     COLORADO_TP_RL_241: 225.5
   response: '641056250080E18'
+- expected_values:
+    COLORADO_TP_RL_241: 239.25
+  response: 641056250080EF4
