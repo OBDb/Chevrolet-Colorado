@@ -19,7 +19,7 @@
   "signals": [
     {"id": "COLORADO_TID_RL", "path": "Tires", "fmt": { "len": 32, "max": 4294967295, "unit": "hex" }, "name": "Rear left tire sensor ID"}
   ]},
-{ "hdr": "241", "rax": "641", "cmd": {"22": "5005"}, "freq": 15, "filter": { "to": 2022 }, "dbgfilter": { "to": 2015, "years": [2017], "from": 2022 },
+{ "hdr": "241", "rax": "641", "cmd": {"22": "5005"}, "freq": 15, "filter": { "to": 2022 }, "dbgfilter": { "to": 2015, "years": [2017] },
   "signals": [
     {"id": "COLORADO_TP_FL_241", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "unit": "kilopascal" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
