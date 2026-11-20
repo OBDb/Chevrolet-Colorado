@@ -1,0 +1,8 @@
+command_id: 241.641.225005|f=-2022
+test_cases:
+- expected_values:
+    COLORADO_TP_FL_241: 209
+  response: '641 05 62 50 05 0D 10 '
+- expected_values:
+    COLORADO_TP_FL_241: 214.5
+  response: 641056250050D68
