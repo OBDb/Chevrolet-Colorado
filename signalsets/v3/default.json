@@ -359,7 +359,7 @@
   "signals": [
     {"id": "COLORADO_FUEL_INJECTION_C1", "path": "Fuel", "fmt": { "len": 16, "max": 65.535, "mul": 10, "div": 10000, "unit": "milliseconds" }, "name": "Fuel injection, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "filter": { "to": 2022 }, "dbgfilter": { "to": 2015, "years": [2017], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "filter": { "to": 2022 }, "dbgfilter": { "to": 2015, "years": [2017] },
   "signals": [
     {"id": "COLORADO_BP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual", "suggestedMetric": "boostPressure"}
   ]},
