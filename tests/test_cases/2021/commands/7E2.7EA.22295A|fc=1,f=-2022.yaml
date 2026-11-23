@@ -4,5 +4,5 @@ test_cases:
     COLORADO_TF_T_FLTED: 12
   response: 7EA0462295A34
 - expected_values:
-    COLORADO_TF_T_FLTED: 29
-  response: 7EA0462295A45
+    COLORADO_TF_T_FLTED: 41
+  response: 7EA0462295A51
